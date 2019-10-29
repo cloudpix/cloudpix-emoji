@@ -18,6 +18,6 @@
   "homepage": "https://github.com/iscoolapp/cloudpix-emoji#readme",
   "dependencies": {
     "noto-emoji": "https://github.com/googlefonts/noto-emoji",
-    "twemoji": "^12.1.3"
+    "twemoji": "https://github.com/twitter/twemoji"
   }
 }

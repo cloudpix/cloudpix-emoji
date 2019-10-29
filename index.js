@@ -1,10 +1,22 @@
 'use strict';
 
-const svgs = require.context('./node_modules/noto-emoji/svg/', true, /^\.\/.*\.(jpe?g|png|gif|svg|ico)$/i);
-const emojis = require('./data/emojis.json');
+const notoEmojiSVGs = require.context('../noto-emoji/svg/', true, /^\.\/.*\.(jpe?g|png|gif|svg|ico)$/i);
+const twemojiSVGs = require.context('../twemoji/assets/svg/', true, /^\.\/.*\.(jpe?g|png|gif|svg|ico)$/i);
+
+const emojis = require('./data/emoji.json');
 
 function getEmoji(code) {
-  return svgs('./emoji_u' + (code || '').toLowerCase() + '.svg');
+  let svg;
+  try {
+    svg = notoEmojiSVGs('./emoji_u' + (code || '').toLowerCase() + '.svg');
+  } catch (e) {
+    try {
+      svg = twemojiSVGs('./' + (code || '').replace(/-/g, '-').toLowerCase() + '.svg');
+    } catch (e2) {
+
+    }
+  }
+  return svg;
 }
 
 function getCategories() {
