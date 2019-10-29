@@ -1,7 +1,7 @@
 'use strict';
 
-const notoEmojiSVGs = require.context('../noto-emoji/svg/', true, /^\.\/.*\.(jpe?g|png|gif|svg|ico)$/i);
-const twemojiSVGs = require.context('../twemoji/assets/svg/', true, /^\.\/.*\.(jpe?g|png|gif|svg|ico)$/i);
+const notoEmojiSVGs = require.context('../noto-emoji/svg/', true, /^\.\/.*\.(svg)$/i);
+const twemojiSVGs = require.context('../twemoji/assets/svg/', true, /^\.\/.*\.(svg)$/i);
 
 const emojis = require('./data/emoji.json');
 
@@ -11,9 +11,9 @@ function getEmoji(code) {
     svg = notoEmojiSVGs('./emoji_u' + (code || '').toLowerCase() + '.svg');
   } catch (e) {
     try {
-      svg = twemojiSVGs('./' + (code || '').replace(/-/g, '-').toLowerCase() + '.svg');
+      svg = twemojiSVGs('./' + (code || '').replace(/_/g, '-').toLowerCase() + '.svg');
     } catch (e2) {
-
+      console.error("Couldn\'t find svg fro code: " + code);
     }
   }
   return svg;
@@ -81,5 +81,5 @@ module.exports = {
   getEmojiByCode: getEmoji,
   getCategories: getCategories,
   getAllEmojiByCategory: getAllEmojiByCategory,
-  convert: parseEmojione
+  //convert: parseEmojione
 };

@@ -1,6 +1,6 @@
 {
   "name": "cloudpix-emoji",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Functions to list/get emoji from Google Noto Emoji or Twitter Twemoji.",
   "main": "index.js",
   "scripts": {
