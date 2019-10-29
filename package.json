@@ -1,0 +1,23 @@
+{
+  "name": "cloudpix-emoji",
+  "version": "0.0.1",
+  "description": "Functions to list/get emoji from Google Noto Emoji or Twitter Twemoji.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iscoolapp/cloudpix-emoji.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/iscoolapp/cloudpix-emoji/issues"
+  },
+  "homepage": "https://github.com/iscoolapp/cloudpix-emoji#readme",
+  "dependencies": {
+    "noto-emoji": "https://github.com/googlefonts/noto-emoji",
+    "twemoji": "^12.1.3"
+  }
+}

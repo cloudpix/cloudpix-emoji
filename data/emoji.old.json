@@ -1,0 +1,5429 @@
+[
+    {
+      "category": "Smileys & People",
+      "fa": "fa-group",
+      "emojis": [
+        {
+          "title": "grinning face",
+          "code": "1f600"
+        },
+        {
+          "title": "beaming face with smiling eyes",
+          "code": "1f601"
+        },
+        {
+          "title": "face with tears of joy",
+          "code": "1f602"
+        },
+        {
+          "title": "rolling on the floor laughing",
+          "code": "1f923"
+        },
+        {
+          "title": "grinning face with big eyes",
+          "code": "1f603"
+        },
+        {
+          "title": "grinning face with smiling eyes",
+          "code": "1f604"
+        },
+        {
+          "title": "grinning face with sweat",
+          "code": "1f605"
+        },
+        {
+          "title": "grinning squinting face",
+          "code": "1f606"
+        },
+        {
+          "title": "winking face",
+          "code": "1f609"
+        },
+        {
+          "title": "smiling face with smiling eyes",
+          "code": "1f60a"
+        },
+        {
+          "title": "face savoring food",
+          "code": "1f60b"
+        },
+        {
+          "title": "smiling face with sunglasses",
+          "code": "1f60e"
+        },
+        {
+          "title": "smiling face with heart-eyes",
+          "code": "1f60d"
+        },
+        {
+          "title": "face blowing a kiss",
+          "code": "1f618"
+        },
+        {
+          "title": "kissing face",
+          "code": "1f617"
+        },
+        {
+          "title": "kissing face with smiling eyes",
+          "code": "1f619"
+        },
+        {
+          "title": "kissing face with closed eyes",
+          "code": "1f61a"
+        },
+        {
+          "title": "slightly smiling face",
+          "code": "1f642"
+        },
+        {
+          "title": "hugging face",
+          "code": "1f917"
+        },
+        {
+          "title": "star-struck",
+          "code": "1f929"
+        },
+        {
+          "title": "thinking face",
+          "code": "1f914"
+        },
+        {
+          "title": "face with raised eyebrow",
+          "code": "1f928"
+        },
+        {
+          "title": "neutral face",
+          "code": "1f610"
+        },
+        {
+          "title": "expressionless face",
+          "code": "1f611"
+        },
+        {
+          "title": "face without mouth",
+          "code": "1f636"
+        },
+        {
+          "title": "face with rolling eyes",
+          "code": "1f644"
+        },
+        {
+          "title": "smirking face",
+          "code": "1f60f"
+        },
+        {
+          "title": "persevering face",
+          "code": "1f623"
+        },
+        {
+          "title": "sad but relieved face",
+          "code": "1f625"
+        },
+        {
+          "title": "face with open mouth",
+          "code": "1f62e"
+        },
+        {
+          "title": "zipper-mouth face",
+          "code": "1f910"
+        },
+        {
+          "title": "hushed face",
+          "code": "1f62f"
+        },
+        {
+          "title": "sleepy face",
+          "code": "1f62a"
+        },
+        {
+          "title": "tired face",
+          "code": "1f62b"
+        },
+        {
+          "title": "sleeping face",
+          "code": "1f634"
+        },
+        {
+          "title": "relieved face",
+          "code": "1f60c"
+        },
+        {
+          "title": "face with tongue",
+          "code": "1f61b"
+        },
+        {
+          "title": "winking face with tongue",
+          "code": "1f61c"
+        },
+        {
+          "title": "squinting face with tongue",
+          "code": "1f61d"
+        },
+        {
+          "title": "drooling face",
+          "code": "1f924"
+        },
+        {
+          "title": "unamused face",
+          "code": "1f612"
+        },
+        {
+          "title": "downcast face with sweat",
+          "code": "1f613"
+        },
+        {
+          "title": "pensive face",
+          "code": "1f614"
+        },
+        {
+          "title": "confused face",
+          "code": "1f615"
+        },
+        {
+          "title": "upside-down face",
+          "code": "1f643"
+        },
+        {
+          "title": "money-mouth face",
+          "code": "1f911"
+        },
+        {
+          "title": "astonished face",
+          "code": "1f632"
+        },
+        {
+          "title": "frowning face",
+          "code": "2639"
+        },
+        {
+          "title": "slightly frowning face",
+          "code": "1f641"
+        },
+        {
+          "title": "confounded face",
+          "code": "1f616"
+        },
+        {
+          "title": "disappointed face",
+          "code": "1f61e"
+        },
+        {
+          "title": "worried face",
+          "code": "1f61f"
+        },
+        {
+          "title": "face with steam from nose",
+          "code": "1f624"
+        },
+        {
+          "title": "crying face",
+          "code": "1f622"
+        },
+        {
+          "title": "loudly crying face",
+          "code": "1f62d"
+        },
+        {
+          "title": "frowning face with open mouth",
+          "code": "1f626"
+        },
+        {
+          "title": "anguished face",
+          "code": "1f627"
+        },
+        {
+          "title": "fearful face",
+          "code": "1f628"
+        },
+        {
+          "title": "weary face",
+          "code": "1f629"
+        },
+        {
+          "title": "exploding head",
+          "code": "1f92f"
+        },
+        {
+          "title": "grimacing face",
+          "code": "1f62c"
+        },
+        {
+          "title": "anxious face with sweat",
+          "code": "1f630"
+        },
+        {
+          "title": "face screaming in fear",
+          "code": "1f631"
+        },
+        {
+          "title": "flushed face",
+          "code": "1f633"
+        },
+        {
+          "title": "zany face",
+          "code": "1f92a"
+        },
+        {
+          "title": "dizzy face",
+          "code": "1f635"
+        },
+        {
+          "title": "pouting face",
+          "code": "1f621"
+        },
+        {
+          "title": "angry face",
+          "code": "1f620"
+        },
+        {
+          "title": "face with symbols on mouth",
+          "code": "1f92c"
+        },
+        {
+          "title": "face with medical mask",
+          "code": "1f637"
+        },
+        {
+          "title": "face with thermometer",
+          "code": "1f912"
+        },
+        {
+          "title": "face with head-bandage",
+          "code": "1f915"
+        },
+        {
+          "title": "nauseated face",
+          "code": "1f922"
+        },
+        {
+          "title": "face vomiting",
+          "code": "1f92e"
+        },
+        {
+          "title": "sneezing face",
+          "code": "1f927"
+        },
+        {
+          "title": "smiling face with halo",
+          "code": "1f607"
+        },
+        {
+          "title": "cowboy hat face",
+          "code": "1f920"
+        },
+        {
+          "title": "clown face",
+          "code": "1f921"
+        },
+        {
+          "title": "lying face",
+          "code": "1f925"
+        },
+        {
+          "title": "shushing face",
+          "code": "1f92b"
+        },
+        {
+          "title": "face with hand over mouth",
+          "code": "1f92d"
+        },
+        {
+          "title": "face with monocle",
+          "code": "1f9d0"
+        },
+        {
+          "title": "nerd face",
+          "code": "1f913"
+        },
+        {
+          "title": "smiling face with 3 hearts",
+          "code": "1f970"
+        },
+        {
+          "title": "smiling face",
+          "code": "263a"
+        },
+        {
+          "title": "hot face",
+          "code": "1f975"
+        },
+        {
+          "title": "cold face",
+          "code": "1f976"
+        },
+        {
+          "title": "partying face",
+          "code": "1f973"
+        },
+        {
+          "title": "woozy face",
+          "code": "1f974"
+        },
+        {
+          "title": "pleading face",
+          "code": "1f97a"
+        },
+        {
+          "title": "smiling face with horns",
+          "code": "1f608"
+        },
+        {
+          "title": "angry face with horns",
+          "code": "1f47f"
+        },
+        {
+          "title": "ogre",
+          "code": "1f479"
+        },
+        {
+          "title": "goblin",
+          "code": "1f47a"
+        },
+        {
+          "title": "skull",
+          "code": "1f480"
+        },
+        {
+          "title": "ghost",
+          "code": "1f47b"
+        },
+        {
+          "title": "alien",
+          "code": "1f47d"
+        },
+        {
+          "title": "robot face",
+          "code": "1f916"
+        },
+        {
+          "title": "pile of poo",
+          "code": "1f4a9"
+        },
+        {
+          "title": "grinning cat face",
+          "code": "1f63a"
+        },
+        {
+          "title": "grinning cat face with smiling eyes",
+          "code": "1f638"
+        },
+        {
+          "title": "cat face with tears of joy",
+          "code": "1f639"
+        },
+        {
+          "title": "smiling cat face with heart-eyes",
+          "code": "1f63b"
+        },
+        {
+          "title": "cat face with wry smile",
+          "code": "1f63c"
+        },
+        {
+          "title": "kissing cat face",
+          "code": "1f63d"
+        },
+        {
+          "title": "weary cat face",
+          "code": "1f640"
+        },
+        {
+          "title": "crying cat face",
+          "code": "1f63f"
+        },
+        {
+          "title": "pouting cat face",
+          "code": "1f63e"
+        },
+        {
+          "title": "baby",
+          "code": "1f476"
+        },
+        {
+          "title": "boy",
+          "code": "1f466"
+        },
+        {
+          "title": "girl",
+          "code": "1f467"
+        },
+        {
+          "title": "man",
+          "code": "1f468"
+        },
+        {
+          "title": "woman",
+          "code": "1f469"
+        },
+        {
+          "title": "old man",
+          "code": "1f474"
+        },
+        {
+          "title": "old woman",
+          "code": "1f475"
+        },
+        {
+          "title": "man health worker",
+          "code": "1f468_200d_2695"
+        },
+        {
+          "title": "woman health worker",
+          "code": "1f469_200d_2695"
+        },
+        {
+          "title": "child",
+          "code": "1f9d2"
+        },
+        {
+          "title": "adult",
+          "code": "1f9d1"
+        },
+        {
+          "title": "older adult",
+          "code": "1f9d3"
+        },
+        {
+          "title": "man, red haired",
+          "code": "1f468_200d_1f9b0"
+        },
+        {
+          "title": "woman, red haired",
+          "code": "1f469_200d_1f9b0"
+        },
+        {
+          "title": "man, curly haired",
+          "code": "1f468_200d_1f9b1"
+        },
+        {
+          "title": "woman, curly haired",
+          "code": "1f469_200d_1f9b1"
+        },
+        {
+          "title": "man, bald",
+          "code": "1f468_200d_1f9b2"
+        },
+        {
+          "title": "woman, bald",
+          "code": "1f469_200d_1f9b2"
+        },
+        {
+          "title": "man, white haired",
+          "code": "1f468_200d_1f9b3"
+        },
+        {
+          "title": "woman, white haired",
+          "code": "1f469_200d_1f9b3"
+        },
+        {
+          "title": "woman superhero",
+          "code": "1f9b8_200d_2640"
+        },
+        {
+          "title": "man superhero",
+          "code": "1f9b8_200d_2642"
+        },
+        {
+          "title": "woman supervillain",
+          "code": "1f9b9_200d_2640"
+        },
+        {
+          "title": "man supervillain",
+          "code": "1f9b9_200d_2642"
+        },
+        {
+          "title": "man in suit levitating",
+          "code": "1f574"
+        },
+        {
+          "title": "man student",
+          "code": "1f468_200d_1f393"
+        },
+        {
+          "title": "woman student",
+          "code": "1f469_200d_1f393"
+        },
+        {
+          "title": "man teacher",
+          "code": "1f468_200d_1f3eb"
+        },
+        {
+          "title": "woman teacher",
+          "code": "1f469_200d_1f3eb"
+        },
+        {
+          "title": "man judge",
+          "code": "1f468_200d_2696"
+        },
+        {
+          "title": "woman judge",
+          "code": "1f469_200d_2696"
+        },
+        {
+          "title": "man farmer",
+          "code": "1f468_200d_1f33e"
+        },
+        {
+          "title": "woman farmer",
+          "code": "1f469_200d_1f33e"
+        },
+        {
+          "title": "man cook",
+          "code": "1f468_200d_1f373"
+        },
+        {
+          "title": "woman cook",
+          "code": "1f469_200d_1f373"
+        },
+        {
+          "title": "man mechanic",
+          "code": "1f468_200d_1f527"
+        },
+        {
+          "title": "woman mechanic",
+          "code": "1f469_200d_1f527"
+        },
+        {
+          "title": "man factory worker",
+          "code": "1f468_200d_1f3ed"
+        },
+        {
+          "title": "woman factory worker",
+          "code": "1f469_200d_1f3ed"
+        },
+        {
+          "title": "man office worker",
+          "code": "1f468_200d_1f4bc"
+        },
+        {
+          "title": "woman office worker",
+          "code": "1f469_200d_1f4bc"
+        },
+        {
+          "title": "man scientist",
+          "code": "1f468_200d_1f52c"
+        },
+        {
+          "title": "woman scientist",
+          "code": "1f469_200d_1f52c"
+        },
+        {
+          "title": "man technologist",
+          "code": "1f468_200d_1f4bb"
+        },
+        {
+          "title": "woman technologist",
+          "code": "1f469_200d_1f4bb"
+        },
+        {
+          "title": "man singer",
+          "code": "1f468_200d_1f3a4"
+        },
+        {
+          "title": "woman singer",
+          "code": "1f469_200d_1f3a4"
+        },
+        {
+          "title": "man artist",
+          "code": "1f468_200d_1f3a8"
+        },
+        {
+          "title": "woman artist",
+          "code": "1f469_200d_1f3a8"
+        },
+        {
+          "title": "man pilot",
+          "code": "1f468_200d_2708"
+        },
+        {
+          "title": "woman pilot",
+          "code": "1f469_200d_2708"
+        },
+        {
+          "title": "man astronaut",
+          "code": "1f468_200d_1f680"
+        },
+        {
+          "title": "woman astronaut",
+          "code": "1f469_200d_1f680"
+        },
+        {
+          "title": "man firefighter",
+          "code": "1f468_200d_1f692"
+        },
+        {
+          "title": "woman firefighter",
+          "code": "1f469_200d_1f692"
+        },
+        {
+          "title": "man police officer",
+          "code": "1f46e_200d_2642"
+        },
+        {
+          "title": "woman police officer",
+          "code": "1f46e_200d_2640"
+        },
+        {
+          "title": "man detective",
+          "code": "1f575_200d_2642"
+        },
+        {
+          "title": "woman detective",
+          "code": "1f575_200d_2640"
+        },
+        {
+          "title": "man guard",
+          "code": "1f482_200d_2642"
+        },
+        {
+          "title": "woman guard",
+          "code": "1f482_200d_2640"
+        },
+        {
+          "title": "man construction worker",
+          "code": "1f477_200d_2642"
+        },
+        {
+          "title": "woman construction worker",
+          "code": "1f477_200d_2640"
+        },
+        {
+          "title": "prince",
+          "code": "1f934"
+        },
+        {
+          "title": "princess",
+          "code": "1f478"
+        },
+        {
+          "title": "man wearing turban",
+          "code": "1f473_200d_2642"
+        },
+        {
+          "title": "woman wearing turban",
+          "code": "1f473_200d_2640"
+        },
+        {
+          "title": "man with chinese cap",
+          "code": "1f472"
+        },
+        {
+          "title": "woman with headscarf",
+          "code": "1f9d5"
+        },
+        {
+          "title": "bearded person",
+          "code": "1f9d4"
+        },
+        {
+          "title": "blond-haired man",
+          "code": "1f471_200d_2642"
+        },
+        {
+          "title": "blond-haired woman",
+          "code": "1f471_200d_2640"
+        },
+        {
+          "title": "man in tuxedo",
+          "code": "1f935"
+        },
+        {
+          "title": "bride with veil",
+          "code": "1f470"
+        },
+        {
+          "title": "pregnant woman",
+          "code": "1f930"
+        },
+        {
+          "title": "breast-feeding",
+          "code": "1f931"
+        },
+        {
+          "title": "baby angel",
+          "code": "1f47c"
+        },
+        {
+          "title": "santa claus",
+          "code": "1f385"
+        },
+        {
+          "title": "mrs. claus",
+          "code": "1f936"
+        },
+        {
+          "title": "woman mage",
+          "code": "1f9d9_200d_2640"
+        },
+        {
+          "title": "man mage",
+          "code": "1f9d9_200d_2642"
+        },
+        {
+          "title": "woman fairy",
+          "code": "1f9da_200d_2640"
+        },
+        {
+          "title": "man fairy",
+          "code": "1f9da_200d_2642"
+        },
+        {
+          "title": "woman vampire",
+          "code": "1f9db_200d_2640"
+        },
+        {
+          "title": "man vampire",
+          "code": "1f9db_200d_2642"
+        },
+        {
+          "title": "mermaid",
+          "code": "1f9dc_200d_2640"
+        },
+        {
+          "title": "merman",
+          "code": "1f9dc_200d_2642"
+        },
+        {
+          "title": "woman elf",
+          "code": "1f9dd_200d_2640"
+        },
+        {
+          "title": "man elf",
+          "code": "1f9dd_200d_2642"
+        },
+        {
+          "title": "woman genie",
+          "code": "1f9de_200d_2640"
+        },
+        {
+          "title": "man genie",
+          "code": "1f9de_200d_2642"
+        },
+        {
+          "title": "woman zombie",
+          "code": "1f9df_200d_2640"
+        },
+        {
+          "title": "man zombie",
+          "code": "1f9df_200d_2642"
+        },
+        {
+          "title": "man frowning",
+          "code": "1f64d_200d_2642"
+        },
+        {
+          "title": "woman frowning",
+          "code": "1f64d_200d_2640"
+        },
+        {
+          "title": "man pouting",
+          "code": "1f64e_200d_2642"
+        },
+        {
+          "title": "woman pouting",
+          "code": "1f64e_200d_2640"
+        },
+        {
+          "title": "man gesturing no",
+          "code": "1f645_200d_2642"
+        },
+        {
+          "title": "woman gesturing no",
+          "code": "1f645_200d_2640"
+        },
+        {
+          "title": "man gesturing ok",
+          "code": "1f646_200d_2642"
+        },
+        {
+          "title": "woman gesturing ok",
+          "code": "1f646_200d_2640"
+        },
+        {
+          "title": "man tipping hand",
+          "code": "1f481_200d_2642"
+        },
+        {
+          "title": "woman tipping hand",
+          "code": "1f481_200d_2640"
+        },
+        {
+          "title": "man raising hand",
+          "code": "1f64b_200d_2642"
+        },
+        {
+          "title": "woman raising hand",
+          "code": "1f64b_200d_2640"
+        },
+        {
+          "title": "man bowing",
+          "code": "1f647_200d_2642"
+        },
+        {
+          "title": "woman bowing",
+          "code": "1f647_200d_2640"
+        },
+        {
+          "title": "man facepalming",
+          "code": "1f926_200d_2642"
+        },
+        {
+          "title": "woman facepalming",
+          "code": "1f926_200d_2640"
+        },
+        {
+          "title": "man shrugging",
+          "code": "1f937_200d_2642"
+        },
+        {
+          "title": "woman shrugging",
+          "code": "1f937_200d_2640"
+        },
+        {
+          "title": "man getting massage",
+          "code": "1f486_200d_2642"
+        },
+        {
+          "title": "woman getting massage",
+          "code": "1f486_200d_2640"
+        },
+        {
+          "title": "man getting haircut",
+          "code": "1f487_200d_2642"
+        },
+        {
+          "title": "woman getting haircut",
+          "code": "1f487_200d_2640"
+        },
+        {
+          "title": "man walking",
+          "code": "1f6b6_200d_2642"
+        },
+        {
+          "title": "woman walking",
+          "code": "1f6b6_200d_2640"
+        },
+        {
+          "title": "man running",
+          "code": "1f3c3_200d_2642"
+        },
+        {
+          "title": "woman running",
+          "code": "1f3c3_200d_2640"
+        },
+        {
+          "title": "woman dancing",
+          "code": "1f483"
+        },
+        {
+          "title": "man dancing",
+          "code": "1f57a"
+        },
+        {
+          "title": "men with bunny ears",
+          "code": "1f46f_200d_2642"
+        },
+        {
+          "title": "women with bunny ears",
+          "code": "1f46f_200d_2640"
+        },
+        {
+          "title": "woman in steamy room",
+          "code": "1f9d6_200d_2640"
+        },
+        {
+          "title": "man in steamy room",
+          "code": "1f9d6_200d_2642"
+        },
+        {
+          "title": "speaking head",
+          "code": "1f5e3"
+        },
+        {
+          "title": "bust in silhouette",
+          "code": "1f464"
+        },
+        {
+          "title": "busts in silhouette",
+          "code": "1f465"
+        },
+        {
+          "title": "man and woman holding hands",
+          "code": "1f46b"
+        },
+        {
+          "title": "two men holding hands",
+          "code": "1f46c"
+        },
+        {
+          "title": "two women holding hands",
+          "code": "1f46d"
+        },
+        {
+          "title": "kiss: woman, man",
+          "code": "1f469_200d_2764_200d_1f48b_200d_1f468"
+        },
+        {
+          "title": "kiss: man, man",
+          "code": "1f468_200d_2764_200d_1f48b_200d_1f468"
+        },
+        {
+          "title": "kiss: woman, woman",
+          "code": "1f469_200d_2764_200d_1f48b_200d_1f469"
+        },
+        {
+          "title": "couple with heart: woman, man",
+          "code": "1f469_200d_2764_200d_1f468"
+        },
+        {
+          "title": "couple with heart: man, man",
+          "code": "1f468_200d_2764_200d_1f468"
+        },
+        {
+          "title": "couple with heart: woman, woman",
+          "code": "1f469_200d_2764_200d_1f469"
+        },
+        {
+          "title": "family",
+          "code": "1f46a"
+        },
+        {
+          "title": "family: man, woman, boy",
+          "code": "1f468_200d_1f469_200d_1f466"
+        },
+        {
+          "title": "family: man, woman, girl",
+          "code": "1f468_200d_1f469_200d_1f467"
+        },
+        {
+          "title": "family: man, woman, girl, boy",
+          "code": "1f468_200d_1f469_200d_1f467_200d_1f466"
+        },
+        {
+          "title": "family: man, woman, boy, boy",
+          "code": "1f468_200d_1f469_200d_1f466_200d_1f466"
+        },
+        {
+          "title": "family: man, woman, girl, girl",
+          "code": "1f468_200d_1f469_200d_1f467_200d_1f467"
+        },
+        {
+          "title": "family: man, man, boy",
+          "code": "1f468_200d_1f468_200d_1f466"
+        },
+        {
+          "title": "family: man, man, girl",
+          "code": "1f468_200d_1f468_200d_1f467"
+        },
+        {
+          "title": "family: man, man, girl, boy",
+          "code": "1f468_200d_1f468_200d_1f467_200d_1f466"
+        },
+        {
+          "title": "family: man, man, boy, boy",
+          "code": "1f468_200d_1f468_200d_1f466_200d_1f466"
+        },
+        {
+          "title": "family: man, man, girl, girl",
+          "code": "1f468_200d_1f468_200d_1f467_200d_1f467"
+        },
+        {
+          "title": "family: woman, woman, boy",
+          "code": "1f469_200d_1f469_200d_1f466"
+        },
+        {
+          "title": "family: woman, woman, girl",
+          "code": "1f469_200d_1f469_200d_1f467"
+        },
+        {
+          "title": "family: woman, woman, girl, boy",
+          "code": "1f469_200d_1f469_200d_1f467_200d_1f466"
+        },
+        {
+          "title": "family: woman, woman, boy, boy",
+          "code": "1f469_200d_1f469_200d_1f466_200d_1f466"
+        },
+        {
+          "title": "family: woman, woman, girl, girl",
+          "code": "1f469_200d_1f469_200d_1f467_200d_1f467"
+        },
+        {
+          "title": "family: man, boy",
+          "code": "1f468_200d_1f466"
+        },
+        {
+          "title": "family: man, boy, boy",
+          "code": "1f468_200d_1f466_200d_1f466"
+        },
+        {
+          "title": "family: man, girl",
+          "code": "1f468_200d_1f467"
+        },
+        {
+          "title": "family: man, girl, boy",
+          "code": "1f468_200d_1f467_200d_1f466"
+        },
+        {
+          "title": "family: man, girl, girl",
+          "code": "1f468_200d_1f467_200d_1f467"
+        },
+        {
+          "title": "family: woman, boy",
+          "code": "1f469_200d_1f466"
+        },
+        {
+          "title": "family: woman, boy, boy",
+          "code": "1f469_200d_1f466_200d_1f466"
+        },
+        {
+          "title": "family: woman, girl",
+          "code": "1f469_200d_1f467"
+        },
+        {
+          "title": "family: woman, girl, boy",
+          "code": "1f469_200d_1f467_200d_1f466"
+        },
+        {
+          "title": "family: woman, girl, girl",
+          "code": "1f469_200d_1f467_200d_1f467"
+        },
+        {
+          "title": "selfie",
+          "code": "1f933"
+        },
+        {
+          "title": "flexed biceps",
+          "code": "1f4aa"
+        },
+        {
+          "title": "backhand index pointing left",
+          "code": "1f448"
+        },
+        {
+          "title": "backhand index pointing right",
+          "code": "1f449"
+        },
+        {
+          "title": "index pointing up",
+          "code": "261d"
+        },
+        {
+          "title": "backhand index pointing up",
+          "code": "1f446"
+        },
+        {
+          "title": "middle finger",
+          "code": "1f595"
+        },
+        {
+          "title": "backhand index pointing down",
+          "code": "1f447"
+        },
+        {
+          "title": "victory hand",
+          "code": "270c"
+        },
+        {
+          "title": "writing hand",
+          "code": "270d"
+        },
+        {
+          "title": "crossed fingers",
+          "code": "1f91e"
+        },
+        {
+          "title": "vulcan salute",
+          "code": "1f596"
+        },
+        {
+          "title": "sign of the horns",
+          "code": "1f918"
+        },
+        {
+          "title": "hand with fingers splayed",
+          "code": "1f590"
+        },
+        {
+          "title": "raised hand",
+          "code": "270b"
+        },
+        {
+          "title": "ok hand",
+          "code": "1f44c"
+        },
+        {
+          "title": "thumbs up",
+          "code": "1f44d"
+        },
+        {
+          "title": "thumbs down",
+          "code": "1f44e"
+        },
+        {
+          "title": "raised fist",
+          "code": "270a"
+        },
+        {
+          "title": "oncoming fist",
+          "code": "1f44a"
+        },
+        {
+          "title": "left-facing fist",
+          "code": "1f91b"
+        },
+        {
+          "title": "right-facing fist",
+          "code": "1f91c"
+        },
+        {
+          "title": "raised back of hand",
+          "code": "1f91a"
+        },
+        {
+          "title": "waving hand",
+          "code": "1f44b"
+        },
+        {
+          "title": "call me hand",
+          "code": "1f919"
+        },
+        {
+          "title": "love-you gesture",
+          "code": "1f91f"
+        },
+        {
+          "title": "clapping hands",
+          "code": "1f44f"
+        },
+        {
+          "title": "open hands",
+          "code": "1f450"
+        },
+        {
+          "title": "raising hands",
+          "code": "1f64c"
+        },
+        {
+          "title": "palms up together",
+          "code": "1f932"
+        },
+        {
+          "title": "folded hands",
+          "code": "1f64f"
+        },
+        {
+          "title": "handshake",
+          "code": "1f91d"
+        },
+        {
+          "title": "nail polish",
+          "code": "1f485"
+        },
+        {
+          "title": "ear",
+          "code": "1f442"
+        },
+        {
+          "title": "nose",
+          "code": "1f443"
+        },
+        {
+          "title": "leg",
+          "code": "1f9b5"
+        },
+        {
+          "title": "foot",
+          "code": "1f9b6"
+        },
+        {
+          "title": "bone",
+          "code": "1f9b4"
+        },
+        {
+          "title": "tooth",
+          "code": "1f9b7"
+        },
+        {
+          "title": "footprints",
+          "code": "1f463"
+        },
+        {
+          "title": "eyes",
+          "code": "1f440"
+        },
+        {
+          "title": "eye",
+          "code": "1f441"
+        },
+        {
+          "title": "brain",
+          "code": "1f9e0"
+        },
+        {
+          "title": "tongue",
+          "code": "1f445"
+        },
+        {
+          "title": "mouth",
+          "code": "1f444"
+        },
+        {
+          "title": "kiss mark",
+          "code": "1f48b"
+        },
+        {
+          "title": "glasses",
+          "code": "1f453"
+        },
+        {
+          "title": "sunglasses",
+          "code": "1f576"
+        },
+        {
+          "title": "goggles",
+          "code": "1f97d"
+        },
+        {
+          "title": "lab coat",
+          "code": "1f97c"
+        },
+        {
+          "title": "shopping bags",
+          "code": "1f6cd"
+        },
+        {
+          "title": "hiking boot",
+          "code": "1f97e"
+        },
+        {
+          "title": "woman’s flat shoe",
+          "code": "1f97f"
+        },
+        {
+          "title": "rescue worker’s helmet",
+          "code": "26d1"
+        },
+        {
+          "title": "necktie",
+          "code": "1f454"
+        },
+        {
+          "title": "t-shirt",
+          "code": "1f455"
+        },
+        {
+          "title": "jeans",
+          "code": "1f456"
+        },
+        {
+          "title": "scarf",
+          "code": "1f9e3"
+        },
+        {
+          "title": "gloves",
+          "code": "1f9e4"
+        },
+        {
+          "title": "coat",
+          "code": "1f9e5"
+        },
+        {
+          "title": "socks",
+          "code": "1f9e6"
+        },
+        {
+          "title": "dress",
+          "code": "1f457"
+        },
+        {
+          "title": "kimono",
+          "code": "1f458"
+        },
+        {
+          "title": "bikini",
+          "code": "1f459"
+        },
+        {
+          "title": "woman’s clothes",
+          "code": "1f45a"
+        },
+        {
+          "title": "purse",
+          "code": "1f45b"
+        },
+        {
+          "title": "handbag",
+          "code": "1f45c"
+        },
+        {
+          "title": "clutch bag",
+          "code": "1f45d"
+        },
+        {
+          "title": "school backpack",
+          "code": "1f392"
+        },
+        {
+          "title": "man’s shoe",
+          "code": "1f45e"
+        },
+        {
+          "title": "running shoe",
+          "code": "1f45f"
+        },
+        {
+          "title": "high-heeled shoe",
+          "code": "1f460"
+        },
+        {
+          "title": "woman’s sandal",
+          "code": "1f461"
+        },
+        {
+          "title": "woman’s boot",
+          "code": "1f462"
+        },
+        {
+          "title": "crown",
+          "code": "1f451"
+        },
+        {
+          "title": "woman’s hat",
+          "code": "1f452"
+        },
+        {
+          "title": "top hat",
+          "code": "1f3a9"
+        },
+        {
+          "title": "graduation cap",
+          "code": "1f393"
+        },
+        {
+          "title": "billed cap",
+          "code": "1f9e2"
+        },
+        {
+          "title": "lipstick",
+          "code": "1f484"
+        },
+        {
+          "title": "ring",
+          "code": "1f48d"
+        },
+        {
+          "title": "closed umbrella",
+          "code": "1f302"
+        },
+        {
+          "title": "briefcase",
+          "code": "1f4bc"
+        }
+      ]
+    },
+    {
+      "category": "Nature & Animals",
+      "fa": "fa-pagelines",
+      "emojis": [
+        {
+          "title": "raccoon",
+          "code": "1f99d"
+        },
+        {
+          "title": "llama",
+          "code": "1f999"
+        },
+        {
+          "title": "hippopotamus",
+          "code": "1f99b"
+        },
+        {
+          "title": "chipmunk",
+          "code": "1f43f"
+        },
+        {
+          "title": "kangaroo",
+          "code": "1f998"
+        },
+        {
+          "title": "badger",
+          "code": "1f9a1"
+        },
+        {
+          "title": "dove",
+          "code": "1f54a"
+        },
+        {
+          "title": "swan",
+          "code": "1f9a2"
+        },
+        {
+          "title": "peacock",
+          "code": "1f99a"
+        },
+        {
+          "title": "parrot",
+          "code": "1f99c"
+        },
+        {
+          "title": "lobster",
+          "code": "1f99e"
+        },
+        {
+          "title": "spider",
+          "code": "1f577"
+        },
+        {
+          "title": "spider web",
+          "code": "1f578"
+        },
+        {
+          "title": "mosquito",
+          "code": "1f99f"
+        },
+        {
+          "title": "microbe",
+          "code": "1f9a0"
+        },
+        {
+          "title": "see-no-evil monkey",
+          "code": "1f648"
+        },
+        {
+          "title": "hear-no-evil monkey",
+          "code": "1f649"
+        },
+        {
+          "title": "speak-no-evil monkey",
+          "code": "1f64a"
+        },
+        {
+          "title": "collision",
+          "code": "1f4a5"
+        },
+        {
+          "title": "sweat droplets",
+          "code": "1f4a6"
+        },
+        {
+          "title": "dashing away",
+          "code": "1f4a8"
+        },
+        {
+          "title": "dizzy",
+          "code": "1f4ab"
+        },
+        {
+          "title": "monkey face",
+          "code": "1f435"
+        },
+        {
+          "title": "monkey",
+          "code": "1f412"
+        },
+        {
+          "title": "gorilla",
+          "code": "1f98d"
+        },
+        {
+          "title": "dog face",
+          "code": "1f436"
+        },
+        {
+          "title": "dog",
+          "code": "1f415"
+        },
+        {
+          "title": "poodle",
+          "code": "1f429"
+        },
+        {
+          "title": "wolf face",
+          "code": "1f43a"
+        },
+        {
+          "title": "fox face",
+          "code": "1f98a"
+        },
+        {
+          "title": "cat face",
+          "code": "1f431"
+        },
+        {
+          "title": "cat",
+          "code": "1f408"
+        },
+        {
+          "title": "lion face",
+          "code": "1f981"
+        },
+        {
+          "title": "tiger face",
+          "code": "1f42f"
+        },
+        {
+          "title": "tiger",
+          "code": "1f405"
+        },
+        {
+          "title": "leopard",
+          "code": "1f406"
+        },
+        {
+          "title": "horse face",
+          "code": "1f434"
+        },
+        {
+          "title": "horse",
+          "code": "1f40e"
+        },
+        {
+          "title": "unicorn face",
+          "code": "1f984"
+        },
+        {
+          "title": "zebra",
+          "code": "1f993"
+        },
+        {
+          "title": "cow face",
+          "code": "1f42e"
+        },
+        {
+          "title": "ox",
+          "code": "1f402"
+        },
+        {
+          "title": "water buffalo",
+          "code": "1f403"
+        },
+        {
+          "title": "cow",
+          "code": "1f404"
+        },
+        {
+          "title": "pig face",
+          "code": "1f437"
+        },
+        {
+          "title": "pig",
+          "code": "1f416"
+        },
+        {
+          "title": "boar",
+          "code": "1f417"
+        },
+        {
+          "title": "pig nose",
+          "code": "1f43d"
+        },
+        {
+          "title": "ram",
+          "code": "1f40f"
+        },
+        {
+          "title": "ewe",
+          "code": "1f411"
+        },
+        {
+          "title": "goat",
+          "code": "1f410"
+        },
+        {
+          "title": "camel",
+          "code": "1f42a"
+        },
+        {
+          "title": "deer",
+          "code": "1f98c"
+        },
+        {
+          "title": "two-hump camel",
+          "code": "1f42b"
+        },
+        {
+          "title": "giraffe",
+          "code": "1f992"
+        },
+        {
+          "title": "elephant",
+          "code": "1f418"
+        },
+        {
+          "title": "rhinoceros",
+          "code": "1f98f"
+        },
+        {
+          "title": "mouse face",
+          "code": "1f42d"
+        },
+        {
+          "title": "mouse",
+          "code": "1f401"
+        },
+        {
+          "title": "rat",
+          "code": "1f400"
+        },
+        {
+          "title": "hamster face",
+          "code": "1f439"
+        },
+        {
+          "title": "rabbit face",
+          "code": "1f430"
+        },
+        {
+          "title": "rabbit",
+          "code": "1f407"
+        },
+        {
+          "title": "hedgehog",
+          "code": "1f994"
+        },
+        {
+          "title": "bat",
+          "code": "1f987"
+        },
+        {
+          "title": "bear face",
+          "code": "1f43b"
+        },
+        {
+          "title": "koala",
+          "code": "1f428"
+        },
+        {
+          "title": "panda face",
+          "code": "1f43c"
+        },
+        {
+          "title": "paw prints",
+          "code": "1f43e"
+        },
+        {
+          "title": "turkey",
+          "code": "1f983"
+        },
+        {
+          "title": "chicken",
+          "code": "1f414"
+        },
+        {
+          "title": "rooster",
+          "code": "1f413"
+        },
+        {
+          "title": "hatching chick",
+          "code": "1f423"
+        },
+        {
+          "title": "baby chick",
+          "code": "1f424"
+        },
+        {
+          "title": "front-facing baby chick",
+          "code": "1f425"
+        },
+        {
+          "title": "bird",
+          "code": "1f426"
+        },
+        {
+          "title": "penguin",
+          "code": "1f427"
+        },
+        {
+          "title": "eagle",
+          "code": "1f985"
+        },
+        {
+          "title": "duck",
+          "code": "1f986"
+        },
+        {
+          "title": "owl",
+          "code": "1f989"
+        },
+        {
+          "title": "frog face",
+          "code": "1f438"
+        },
+        {
+          "title": "crocodile",
+          "code": "1f40a"
+        },
+        {
+          "title": "turtle",
+          "code": "1f422"
+        },
+        {
+          "title": "lizard",
+          "code": "1f98e"
+        },
+        {
+          "title": "snake",
+          "code": "1f40d"
+        },
+        {
+          "title": "dragon face",
+          "code": "1f432"
+        },
+        {
+          "title": "dragon",
+          "code": "1f409"
+        },
+        {
+          "title": "sauropod",
+          "code": "1f995"
+        },
+        {
+          "title": "t-rex",
+          "code": "1f996"
+        },
+        {
+          "title": "spouting whale",
+          "code": "1f433"
+        },
+        {
+          "title": "whale",
+          "code": "1f40b"
+        },
+        {
+          "title": "dolphin",
+          "code": "1f42c"
+        },
+        {
+          "title": "fish",
+          "code": "1f41f"
+        },
+        {
+          "title": "tropical fish",
+          "code": "1f420"
+        },
+        {
+          "title": "blowfish",
+          "code": "1f421"
+        },
+        {
+          "title": "shark",
+          "code": "1f988"
+        },
+        {
+          "title": "octopus",
+          "code": "1f419"
+        },
+        {
+          "title": "spiral shell",
+          "code": "1f41a"
+        },
+        {
+          "title": "crab",
+          "code": "1f980"
+        },
+        {
+          "title": "shrimp",
+          "code": "1f990"
+        },
+        {
+          "title": "squid",
+          "code": "1f991"
+        },
+        {
+          "title": "snail",
+          "code": "1f40c"
+        },
+        {
+          "title": "butterfly",
+          "code": "1f98b"
+        },
+        {
+          "title": "bug",
+          "code": "1f41b"
+        },
+        {
+          "title": "ant",
+          "code": "1f41c"
+        },
+        {
+          "title": "honeybee",
+          "code": "1f41d"
+        },
+        {
+          "title": "lady beetle",
+          "code": "1f41e"
+        },
+        {
+          "title": "cricket",
+          "code": "1f997"
+        },
+        {
+          "title": "scorpion",
+          "code": "1f982"
+        },
+        {
+          "title": "bouquet",
+          "code": "1f490"
+        },
+        {
+          "title": "cherry blossom",
+          "code": "1f338"
+        },
+        {
+          "title": "white flower",
+          "code": "1f4ae"
+        },
+        {
+          "title": "rose",
+          "code": "1f339"
+        },
+        {
+          "title": "wilted flower",
+          "code": "1f940"
+        },
+        {
+          "title": "hibiscus",
+          "code": "1f33a"
+        },
+        {
+          "title": "sunflower",
+          "code": "1f33b"
+        },
+        {
+          "title": "blossom",
+          "code": "1f33c"
+        },
+        {
+          "title": "tulip",
+          "code": "1f337"
+        },
+        {
+          "title": "seedling",
+          "code": "1f331"
+        },
+        {
+          "title": "evergreen tree",
+          "code": "1f332"
+        },
+        {
+          "title": "deciduous tree",
+          "code": "1f333"
+        },
+        {
+          "title": "palm tree",
+          "code": "1f334"
+        },
+        {
+          "title": "cactus",
+          "code": "1f335"
+        },
+        {
+          "title": "sheaf of rice",
+          "code": "1f33e"
+        },
+        {
+          "title": "herb",
+          "code": "1f33f"
+        },
+        {
+          "title": "shamrock",
+          "code": "2618"
+        },
+        {
+          "title": "four leaf clover",
+          "code": "1f340"
+        },
+        {
+          "title": "maple leaf",
+          "code": "1f341"
+        },
+        {
+          "title": "fallen leaf",
+          "code": "1f342"
+        },
+        {
+          "title": "leaf fluttering in wind",
+          "code": "1f343"
+        },
+        {
+          "title": "mushroom",
+          "code": "1f344"
+        },
+        {
+          "title": "chestnut",
+          "code": "1f330"
+        },
+        {
+          "title": "jack-o-lantern",
+          "code": "1f383"
+        },
+        {
+          "title": "globe showing europe-africa",
+          "code": "1f30d"
+        },
+        {
+          "title": "globe showing americas",
+          "code": "1f30e"
+        },
+        {
+          "title": "globe showing asia-australia",
+          "code": "1f30f"
+        },
+        {
+          "title": "globe with meridians",
+          "code": "1f310"
+        },
+        {
+          "title": "new moon",
+          "code": "1f311"
+        },
+        {
+          "title": "waxing crescent moon",
+          "code": "1f312"
+        },
+        {
+          "title": "first quarter moon",
+          "code": "1f313"
+        },
+        {
+          "title": "waxing gibbous moon",
+          "code": "1f314"
+        },
+        {
+          "title": "full moon",
+          "code": "1f315"
+        },
+        {
+          "title": "waning gibbous moon",
+          "code": "1f316"
+        },
+        {
+          "title": "last quarter moon",
+          "code": "1f317"
+        },
+        {
+          "title": "waning crescent moon",
+          "code": "1f318"
+        },
+        {
+          "title": "crescent moon",
+          "code": "1f319"
+        },
+        {
+          "title": "new moon face",
+          "code": "1f31a"
+        },
+        {
+          "title": "first quarter moon face",
+          "code": "1f31b"
+        },
+        {
+          "title": "last quarter moon face",
+          "code": "1f31c"
+        },
+        {
+          "title": "sun",
+          "code": "2600"
+        },
+        {
+          "title": "full moon face",
+          "code": "1f31d"
+        },
+        {
+          "title": "sun with face",
+          "code": "1f31e"
+        },
+        {
+          "title": "star",
+          "code": "2b50"
+        },
+        {
+          "title": "glowing star",
+          "code": "1f31f"
+        },
+        {
+          "title": "shooting star",
+          "code": "1f320"
+        },
+        {
+          "title": "cloud with lightning and rain",
+          "code": "26c8"
+        },
+        {
+          "title": "tornado",
+          "code": "1f32a"
+        },
+        {
+          "title": "fog",
+          "code": "1f32b"
+        },
+        {
+          "title": "wind face",
+          "code": "1f32c"
+        },
+        {
+          "title": "sun behind cloud",
+          "code": "26c5"
+        },
+        {
+          "title": "sun behind small cloud",
+          "code": "1f324"
+        },
+        {
+          "title": "sun behind large cloud",
+          "code": "1f325"
+        },
+        {
+          "title": "sun behind rain cloud",
+          "code": "1f326"
+        },
+        {
+          "title": "cloud with rain",
+          "code": "1f327"
+        },
+        {
+          "title": "cloud with snow",
+          "code": "1f328"
+        },
+        {
+          "title": "cloud with lightning",
+          "code": "1f329"
+        },
+        {
+          "title": "rainbow",
+          "code": "1f308"
+        },
+        {
+          "title": "cloud",
+          "code": "2601"
+        },
+        {
+          "title": "umbrella",
+          "code": "2602"
+        },
+        {
+          "title": "umbrella with rain drops",
+          "code": "2614"
+        },
+        {
+          "title": "high voltage",
+          "code": "26a1"
+        },
+        {
+          "title": "snowman",
+          "code": "2603"
+        },
+        {
+          "title": "snowman without snow",
+          "code": "26c4"
+        },
+        {
+          "title": "comet",
+          "code": "2604"
+        },
+        {
+          "title": "fire",
+          "code": "1f525"
+        },
+        {
+          "title": "droplet",
+          "code": "1f4a7"
+        },
+        {
+          "title": "water wave",
+          "code": "1f30a"
+        },
+        {
+          "title": "christmas tree",
+          "code": "1f384"
+        },
+        {
+          "title": "sparkles",
+          "code": "2728"
+        },
+        {
+          "title": "tanabata tree",
+          "code": "1f38b"
+        },
+        {
+          "title": "pine decoration",
+          "code": "1f38d"
+        }
+      ]
+    },
+    {
+      "category": "Food & Drink",
+      "fa": "fa-cutlery",
+      "emojis": [
+        {
+          "title": "rosette",
+          "code": "1f3f5"
+        },
+        {
+          "title": "mango",
+          "code": "1f96d"
+        },
+        {
+          "title": "hot pepper",
+          "code": "1f336"
+        },
+        {
+          "title": "leafy green",
+          "code": "1f96c"
+        },
+        {
+          "title": "bagel",
+          "code": "1f96f"
+        },
+        {
+          "title": "salt",
+          "code": "1f9c2"
+        },
+        {
+          "title": "moon cake",
+          "code": "1f96e"
+        },
+        {
+          "title": "cupcake",
+          "code": "1f9c1"
+        },
+        {
+          "title": "grapes",
+          "code": "1f347"
+        },
+        {
+          "title": "melon",
+          "code": "1f348"
+        },
+        {
+          "title": "watermelon",
+          "code": "1f349"
+        },
+        {
+          "title": "tangerine",
+          "code": "1f34a"
+        },
+        {
+          "title": "lemon",
+          "code": "1f34b"
+        },
+        {
+          "title": "banana",
+          "code": "1f34c"
+        },
+        {
+          "title": "pineapple",
+          "code": "1f34d"
+        },
+        {
+          "title": "red apple",
+          "code": "1f34e"
+        },
+        {
+          "title": "green apple",
+          "code": "1f34f"
+        },
+        {
+          "title": "pear",
+          "code": "1f350"
+        },
+        {
+          "title": "peach",
+          "code": "1f351"
+        },
+        {
+          "title": "cherries",
+          "code": "1f352"
+        },
+        {
+          "title": "strawberry",
+          "code": "1f353"
+        },
+        {
+          "title": "kiwi fruit",
+          "code": "1f95d"
+        },
+        {
+          "title": "tomato",
+          "code": "1f345"
+        },
+        {
+          "title": "coconut",
+          "code": "1f965"
+        },
+        {
+          "title": "avocado",
+          "code": "1f951"
+        },
+        {
+          "title": "eggplant",
+          "code": "1f346"
+        },
+        {
+          "title": "potato",
+          "code": "1f954"
+        },
+        {
+          "title": "carrot",
+          "code": "1f955"
+        },
+        {
+          "title": "ear of corn",
+          "code": "1f33d"
+        },
+        {
+          "title": "cucumber",
+          "code": "1f952"
+        },
+        {
+          "title": "egg",
+          "code": "1f95a"
+        },
+        {
+          "title": "broccoli",
+          "code": "1f966"
+        },
+        {
+          "title": "peanuts",
+          "code": "1f95c"
+        },
+        {
+          "title": "bread",
+          "code": "1f35e"
+        },
+        {
+          "title": "croissant",
+          "code": "1f950"
+        },
+        {
+          "title": "baguette bread",
+          "code": "1f956"
+        },
+        {
+          "title": "pretzel",
+          "code": "1f968"
+        },
+        {
+          "title": "pancakes",
+          "code": "1f95e"
+        },
+        {
+          "title": "cheese wedge",
+          "code": "1f9c0"
+        },
+        {
+          "title": "meat on bone",
+          "code": "1f356"
+        },
+        {
+          "title": "poultry leg",
+          "code": "1f357"
+        },
+        {
+          "title": "cut of meat",
+          "code": "1f969"
+        },
+        {
+          "title": "bacon",
+          "code": "1f953"
+        },
+        {
+          "title": "hamburger",
+          "code": "1f354"
+        },
+        {
+          "title": "french fries",
+          "code": "1f35f"
+        },
+        {
+          "title": "pizza",
+          "code": "1f355"
+        },
+        {
+          "title": "hot dog",
+          "code": "1f32d"
+        },
+        {
+          "title": "sandwich",
+          "code": "1f96a"
+        },
+        {
+          "title": "taco",
+          "code": "1f32e"
+        },
+        {
+          "title": "burrito",
+          "code": "1f32f"
+        },
+        {
+          "title": "cooking",
+          "code": "1f373"
+        },
+        {
+          "title": "pot of food",
+          "code": "1f372"
+        },
+        {
+          "title": "bowl with spoon",
+          "code": "1f963"
+        },
+        {
+          "title": "green salad",
+          "code": "1f957"
+        },
+        {
+          "title": "popcorn",
+          "code": "1f37f"
+        },
+        {
+          "title": "canned food",
+          "code": "1f96b"
+        },
+        {
+          "title": "bento box",
+          "code": "1f371"
+        },
+        {
+          "title": "rice cracker",
+          "code": "1f358"
+        },
+        {
+          "title": "rice ball",
+          "code": "1f359"
+        },
+        {
+          "title": "cooked rice",
+          "code": "1f35a"
+        },
+        {
+          "title": "curry rice",
+          "code": "1f35b"
+        },
+        {
+          "title": "steaming bowl",
+          "code": "1f35c"
+        },
+        {
+          "title": "spaghetti",
+          "code": "1f35d"
+        },
+        {
+          "title": "roasted sweet potato",
+          "code": "1f360"
+        },
+        {
+          "title": "oden",
+          "code": "1f362"
+        },
+        {
+          "title": "sushi",
+          "code": "1f363"
+        },
+        {
+          "title": "fried shrimp",
+          "code": "1f364"
+        },
+        {
+          "title": "fish cake with swirl",
+          "code": "1f365"
+        },
+        {
+          "title": "dango",
+          "code": "1f361"
+        },
+        {
+          "title": "dumpling",
+          "code": "1f95f"
+        },
+        {
+          "title": "fortune cookie",
+          "code": "1f960"
+        },
+        {
+          "title": "takeout box",
+          "code": "1f961"
+        },
+        {
+          "title": "soft ice cream",
+          "code": "1f366"
+        },
+        {
+          "title": "shaved ice",
+          "code": "1f367"
+        },
+        {
+          "title": "ice cream",
+          "code": "1f368"
+        },
+        {
+          "title": "doughnut",
+          "code": "1f369"
+        },
+        {
+          "title": "cookie",
+          "code": "1f36a"
+        },
+        {
+          "title": "birthday cake",
+          "code": "1f382"
+        },
+        {
+          "title": "shortcake",
+          "code": "1f370"
+        },
+        {
+          "title": "pie",
+          "code": "1f967"
+        },
+        {
+          "title": "chocolate bar",
+          "code": "1f36b"
+        },
+        {
+          "title": "candy",
+          "code": "1f36c"
+        },
+        {
+          "title": "lollipop",
+          "code": "1f36d"
+        },
+        {
+          "title": "custard",
+          "code": "1f36e"
+        },
+        {
+          "title": "honey pot",
+          "code": "1f36f"
+        },
+        {
+          "title": "baby bottle",
+          "code": "1f37c"
+        },
+        {
+          "title": "glass of milk",
+          "code": "1f95b"
+        },
+        {
+          "title": "hot beverage",
+          "code": "2615"
+        },
+        {
+          "title": "teacup without handle",
+          "code": "1f375"
+        },
+        {
+          "title": "sake",
+          "code": "1f376"
+        },
+        {
+          "title": "bottle with popping cork",
+          "code": "1f37e"
+        },
+        {
+          "title": "wine glass",
+          "code": "1f377"
+        },
+        {
+          "title": "cocktail glass",
+          "code": "1f378"
+        },
+        {
+          "title": "tropical drink",
+          "code": "1f379"
+        },
+        {
+          "title": "beer mug",
+          "code": "1f37a"
+        },
+        {
+          "title": "clinking beer mugs",
+          "code": "1f37b"
+        },
+        {
+          "title": "clinking glasses",
+          "code": "1f942"
+        },
+        {
+          "title": "tumbler glass",
+          "code": "1f943"
+        },
+        {
+          "title": "cup with straw",
+          "code": "1f964"
+        },
+        {
+          "title": "chopsticks",
+          "code": "1f962"
+        },
+        {
+          "title": "fork and knife with plate",
+          "code": "1f37d"
+        },
+        {
+          "title": "fork and knife",
+          "code": "1f374"
+        },
+        {
+          "title": "spoon",
+          "code": "1f944"
+        },
+        {
+          "title": "shallow pan of food",
+          "code": "1f958"
+        },
+        {
+          "title": "stuffed flatbread",
+          "code": "1f959"
+        }
+      ]
+    },
+    {
+      "category": "Activity",
+      "fa": "fa-futbol-o ",
+      "emojis": [
+        {
+          "title": "alien monster",
+          "code": "1f47e"
+        },
+        {
+          "title": "woman climbing",
+          "code": "1f9d7_200d_2640"
+        },
+        {
+          "title": "man climbing",
+          "code": "1f9d7_200d_2642"
+        },
+        {
+          "title": "woman in lotus position",
+          "code": "1f9d8_200d_2640"
+        },
+        {
+          "title": "man in lotus position",
+          "code": "1f9d8_200d_2642"
+        },
+        {
+          "title": "horse racing",
+          "code": "1f3c7"
+        },
+        {
+          "title": "skier",
+          "code": "26f7"
+        },
+        {
+          "title": "snowboarder",
+          "code": "1f3c2"
+        },
+        {
+          "title": "man golfing",
+          "code": "1f3cc_200d_2642"
+        },
+        {
+          "title": "woman golfing",
+          "code": "1f3cc_200d_2640"
+        },
+        {
+          "title": "man surfing",
+          "code": "1f3c4_200d_2642"
+        },
+        {
+          "title": "woman surfing",
+          "code": "1f3c4_200d_2640"
+        },
+        {
+          "title": "man rowing boat",
+          "code": "1f6a3_200d_2642"
+        },
+        {
+          "title": "woman rowing boat",
+          "code": "1f6a3_200d_2640"
+        },
+        {
+          "title": "man swimming",
+          "code": "1f3ca_200d_2642"
+        },
+        {
+          "title": "woman swimming",
+          "code": "1f3ca_200d_2640"
+        },
+        {
+          "title": "man bouncing ball",
+          "code": "26f9_200d_2642"
+        },
+        {
+          "title": "woman bouncing ball",
+          "code": "26f9_200d_2640"
+        },
+        {
+          "title": "man lifting weights",
+          "code": "1f3cb_200d_2642"
+        },
+        {
+          "title": "woman lifting weights",
+          "code": "1f3cb_200d_2640"
+        },
+        {
+          "title": "man biking",
+          "code": "1f6b4_200d_2642"
+        },
+        {
+          "title": "woman biking",
+          "code": "1f6b4_200d_2640"
+        },
+        {
+          "title": "man mountain biking",
+          "code": "1f6b5_200d_2642"
+        },
+        {
+          "title": "woman mountain biking",
+          "code": "1f6b5_200d_2640"
+        },
+        {
+          "title": "man cartwheeling",
+          "code": "1f938_200d_2642"
+        },
+        {
+          "title": "woman cartwheeling",
+          "code": "1f938_200d_2640"
+        },
+        {
+          "title": "men wrestling",
+          "code": "1f93c_200d_2642"
+        },
+        {
+          "title": "women wrestling",
+          "code": "1f93c_200d_2640"
+        },
+        {
+          "title": "man playing water polo",
+          "code": "1f93d_200d_2642"
+        },
+        {
+          "title": "woman playing water polo",
+          "code": "1f93d_200d_2640"
+        },
+        {
+          "title": "man playing handball",
+          "code": "1f93e_200d_2642"
+        },
+        {
+          "title": "woman playing handball",
+          "code": "1f93e_200d_2640"
+        },
+        {
+          "title": "man juggling",
+          "code": "1f939_200d_2642"
+        },
+        {
+          "title": "woman juggling",
+          "code": "1f939_200d_2640"
+        },
+        {
+          "title": "circus tent",
+          "code": "1f3aa"
+        },
+        {
+          "title": "performing arts",
+          "code": "1f3ad"
+        },
+        {
+          "title": "artist palette",
+          "code": "1f3a8"
+        },
+        {
+          "title": "slot machine",
+          "code": "1f3b0"
+        },
+        {
+          "title": "ticket",
+          "code": "1f3ab"
+        },
+        {
+          "title": "trophy",
+          "code": "1f3c6"
+        },
+        {
+          "title": "sports medal",
+          "code": "1f3c5"
+        },
+        {
+          "title": "1st place medal",
+          "code": "1f947"
+        },
+        {
+          "title": "2nd place medal",
+          "code": "1f948"
+        },
+        {
+          "title": "3rd place medal",
+          "code": "1f949"
+        },
+        {
+          "title": "soccer ball",
+          "code": "26bd"
+        },
+        {
+          "title": "baseball",
+          "code": "26be"
+        },
+        {
+          "title": "basketball",
+          "code": "1f3c0"
+        },
+        {
+          "title": "volleyball",
+          "code": "1f3d0"
+        },
+        {
+          "title": "american football",
+          "code": "1f3c8"
+        },
+        {
+          "title": "rugby football",
+          "code": "1f3c9"
+        },
+        {
+          "title": "tennis",
+          "code": "1f3be"
+        },
+        {
+          "title": "pool 8 ball",
+          "code": "1f3b1"
+        },
+        {
+          "title": "bowling",
+          "code": "1f3b3"
+        },
+        {
+          "title": "cricket game",
+          "code": "1f3cf"
+        },
+        {
+          "title": "field hockey",
+          "code": "1f3d1"
+        },
+        {
+          "title": "ice hockey",
+          "code": "1f3d2"
+        },
+        {
+          "title": "ping pong",
+          "code": "1f3d3"
+        },
+        {
+          "title": "badminton",
+          "code": "1f3f8"
+        },
+        {
+          "title": "boxing glove",
+          "code": "1f94a"
+        },
+        {
+          "title": "martial arts uniform",
+          "code": "1f94b"
+        },
+        {
+          "title": "direct hit",
+          "code": "1f3af"
+        },
+        {
+          "title": "flag in hole",
+          "code": "26f3"
+        },
+        {
+          "title": "fishing pole",
+          "code": "1f3a3"
+        },
+        {
+          "title": "running shirt",
+          "code": "1f3bd"
+        },
+        {
+          "title": "skis",
+          "code": "1f3bf"
+        },
+        {
+          "title": "sled",
+          "code": "1f6f7"
+        },
+        {
+          "title": "curling stone",
+          "code": "1f94c"
+        },
+        {
+          "title": "video game",
+          "code": "1f3ae"
+        },
+        {
+          "title": "game die",
+          "code": "1f3b2"
+        },
+        {
+          "title": "musical score",
+          "code": "1f3bc"
+        },
+        {
+          "title": "microphone",
+          "code": "1f3a4"
+        },
+        {
+          "title": "headphone",
+          "code": "1f3a7"
+        },
+        {
+          "title": "saxophone",
+          "code": "1f3b7"
+        },
+        {
+          "title": "guitar",
+          "code": "1f3b8"
+        },
+        {
+          "title": "musical keyboard",
+          "code": "1f3b9"
+        },
+        {
+          "title": "trumpet",
+          "code": "1f3ba"
+        },
+        {
+          "title": "violin",
+          "code": "1f3bb"
+        },
+        {
+          "title": "drum",
+          "code": "1f941"
+        },
+        {
+          "title": "clapper board",
+          "code": "1f3ac"
+        },
+        {
+          "title": "bow and arrow",
+          "code": "1f3f9"
+        },
+        {
+          "title": "shopping cart",
+          "code": "1f6d2"
+        },
+        {
+          "title": "canoe",
+          "code": "1f6f6"
+        },
+        {
+          "title": "person fencing",
+          "code": "1f93a"
+        },
+        {
+          "title": "goal net",
+          "code": "1f945"
+        },
+        {
+          "title": "skateboard",
+          "code": "1f6f9"
+        },
+        {
+          "title": "compass",
+          "code": "1f9ed"
+        },
+        {
+          "title": "bricks",
+          "code": "1f9f1"
+        },
+        {
+          "title": "luggage",
+          "code": "1f9f3"
+        },
+        {
+          "title": "racing car",
+          "code": "1f3ce"
+        },
+        {
+          "title": "motorcycle",
+          "code": "1f3cd"
+        }
+      ]
+    },
+    {
+      "category": "Travel & Places",
+      "fa": "fa-map-signs",
+      "emojis": [
+        {
+          "title": "map of japan",
+          "code": "1f5fe"
+        },
+        {
+          "title": "snow-capped mountain",
+          "code": "1f3d4"
+        },
+        {
+          "title": "mountain",
+          "code": "26f0"
+        },
+        {
+          "title": "camping",
+          "code": "1f3d5"
+        },
+        {
+          "title": "beach with umbrella",
+          "code": "1f3d6"
+        },
+        {
+          "title": "desert",
+          "code": "1f3dc"
+        },
+        {
+          "title": "desert island",
+          "code": "1f3dd"
+        },
+        {
+          "title": "national park",
+          "code": "1f3de"
+        },
+        {
+          "title": "stadium",
+          "code": "1f3df"
+        },
+        {
+          "title": "classical building",
+          "code": "1f3db"
+        },
+        {
+          "title": "building construction",
+          "code": "1f3d7"
+        },
+        {
+          "title": "houses",
+          "code": "1f3d8"
+        },
+        {
+          "title": "derelict house",
+          "code": "1f3da"
+        },
+        {
+          "title": "shinto shrine",
+          "code": "26e9"
+        },
+        {
+          "title": "cityscape",
+          "code": "1f3d9"
+        },
+        {
+          "title": "railway track",
+          "code": "1f6e4"
+        },
+        {
+          "title": "volcano",
+          "code": "1f30b"
+        },
+        {
+          "title": "mount fuji",
+          "code": "1f5fb"
+        },
+        {
+          "title": "house",
+          "code": "1f3e0"
+        },
+        {
+          "title": "house with garden",
+          "code": "1f3e1"
+        },
+        {
+          "title": "office building",
+          "code": "1f3e2"
+        },
+        {
+          "title": "japanese post office",
+          "code": "1f3e3"
+        },
+        {
+          "title": "post office",
+          "code": "1f3e4"
+        },
+        {
+          "title": "hospital",
+          "code": "1f3e5"
+        },
+        {
+          "title": "bank",
+          "code": "1f3e6"
+        },
+        {
+          "title": "hotel",
+          "code": "1f3e8"
+        },
+        {
+          "title": "love hotel",
+          "code": "1f3e9"
+        },
+        {
+          "title": "convenience store",
+          "code": "1f3ea"
+        },
+        {
+          "title": "school",
+          "code": "1f3eb"
+        },
+        {
+          "title": "department store",
+          "code": "1f3ec"
+        },
+        {
+          "title": "factory",
+          "code": "1f3ed"
+        },
+        {
+          "title": "japanese castle",
+          "code": "1f3ef"
+        },
+        {
+          "title": "castle",
+          "code": "1f3f0"
+        },
+        {
+          "title": "wedding",
+          "code": "1f492"
+        },
+        {
+          "title": "tokyo tower",
+          "code": "1f5fc"
+        },
+        {
+          "title": "statue of liberty",
+          "code": "1f5fd"
+        },
+        {
+          "title": "church",
+          "code": "26ea"
+        },
+        {
+          "title": "mosque",
+          "code": "1f54c"
+        },
+        {
+          "title": "synagogue",
+          "code": "1f54d"
+        },
+        {
+          "title": "kaaba",
+          "code": "1f54b"
+        },
+        {
+          "title": "fountain",
+          "code": "26f2"
+        },
+        {
+          "title": "tent",
+          "code": "26fa"
+        },
+        {
+          "title": "foggy",
+          "code": "1f301"
+        },
+        {
+          "title": "night with stars",
+          "code": "1f303"
+        },
+        {
+          "title": "sunrise over mountains",
+          "code": "1f304"
+        },
+        {
+          "title": "sunrise",
+          "code": "1f305"
+        },
+        {
+          "title": "cityscape at dusk",
+          "code": "1f306"
+        },
+        {
+          "title": "sunset",
+          "code": "1f307"
+        },
+        {
+          "title": "bridge at night",
+          "code": "1f309"
+        },
+        {
+          "title": "milky way",
+          "code": "1f30c"
+        },
+        {
+          "title": "carousel horse",
+          "code": "1f3a0"
+        },
+        {
+          "title": "ferris wheel",
+          "code": "1f3a1"
+        },
+        {
+          "title": "roller coaster",
+          "code": "1f3a2"
+        },
+        {
+          "title": "locomotive",
+          "code": "1f682"
+        },
+        {
+          "title": "railway car",
+          "code": "1f683"
+        },
+        {
+          "title": "high-speed train",
+          "code": "1f684"
+        },
+        {
+          "title": "bullet train",
+          "code": "1f685"
+        },
+        {
+          "title": "train",
+          "code": "1f686"
+        },
+        {
+          "title": "metro",
+          "code": "1f687"
+        },
+        {
+          "title": "light rail",
+          "code": "1f688"
+        },
+        {
+          "title": "station",
+          "code": "1f689"
+        },
+        {
+          "title": "tram",
+          "code": "1f68a"
+        },
+        {
+          "title": "monorail",
+          "code": "1f69d"
+        },
+        {
+          "title": "mountain railway",
+          "code": "1f69e"
+        },
+        {
+          "title": "tram car",
+          "code": "1f68b"
+        },
+        {
+          "title": "bus",
+          "code": "1f68c"
+        },
+        {
+          "title": "oncoming bus",
+          "code": "1f68d"
+        },
+        {
+          "title": "trolleybus",
+          "code": "1f68e"
+        },
+        {
+          "title": "minibus",
+          "code": "1f690"
+        },
+        {
+          "title": "ambulance",
+          "code": "1f691"
+        },
+        {
+          "title": "fire engine",
+          "code": "1f692"
+        },
+        {
+          "title": "police car",
+          "code": "1f693"
+        },
+        {
+          "title": "oncoming police car",
+          "code": "1f694"
+        },
+        {
+          "title": "taxi",
+          "code": "1f695"
+        },
+        {
+          "title": "oncoming taxi",
+          "code": "1f696"
+        },
+        {
+          "title": "automobile",
+          "code": "1f697"
+        },
+        {
+          "title": "sport utility vehicle",
+          "code": "1f699"
+        },
+        {
+          "title": "oncoming automobile",
+          "code": "1f698"
+        },
+        {
+          "title": "delivery truck",
+          "code": "1f69a"
+        },
+        {
+          "title": "articulated lorry",
+          "code": "1f69b"
+        },
+        {
+          "title": "tractor",
+          "code": "1f69c"
+        },
+        {
+          "title": "bicycle",
+          "code": "1f6b2"
+        },
+        {
+          "title": "kick scooter",
+          "code": "1f6f4"
+        },
+        {
+          "title": "motor scooter",
+          "code": "1f6f5"
+        },
+        {
+          "title": "bus stop",
+          "code": "1f68f"
+        },
+        {
+          "title": "motorway",
+          "code": "1f6e3"
+        },
+        {
+          "title": "fuel pump",
+          "code": "26fd"
+        },
+        {
+          "title": "police car light",
+          "code": "1f6a8"
+        },
+        {
+          "title": "horizontal traffic light",
+          "code": "1f6a5"
+        },
+        {
+          "title": "vertical traffic light",
+          "code": "1f6a6"
+        },
+        {
+          "title": "construction",
+          "code": "1f6a7"
+        },
+        {
+          "title": "anchor",
+          "code": "2693"
+        },
+        {
+          "title": "sailboat",
+          "code": "26f5"
+        },
+        {
+          "title": "speedboat",
+          "code": "1f6a4"
+        },
+        {
+          "title": "passenger ship",
+          "code": "1f6f3"
+        },
+        {
+          "title": "ferry",
+          "code": "26f4"
+        },
+        {
+          "title": "motor boat",
+          "code": "1f6e5"
+        },
+        {
+          "title": "small airplane",
+          "code": "1f6e9"
+        },
+        {
+          "title": "satellite",
+          "code": "1f6f0"
+        },
+        {
+          "title": "ship",
+          "code": "1f6a2"
+        },
+        {
+          "title": "airplane",
+          "code": "2708"
+        },
+        {
+          "title": "airplane departure",
+          "code": "1f6eb"
+        },
+        {
+          "title": "airplane arrival",
+          "code": "1f6ec"
+        },
+        {
+          "title": "seat",
+          "code": "1f4ba"
+        },
+        {
+          "title": "helicopter",
+          "code": "1f681"
+        },
+        {
+          "title": "suspension railway",
+          "code": "1f69f"
+        },
+        {
+          "title": "mountain cableway",
+          "code": "1f6a0"
+        },
+        {
+          "title": "aerial tramway",
+          "code": "1f6a1"
+        },
+        {
+          "title": "rocket",
+          "code": "1f680"
+        },
+        {
+          "title": "flying saucer",
+          "code": "1f6f8"
+        },
+        {
+          "title": "fireworks",
+          "code": "1f386"
+        },
+        {
+          "title": "sparkler",
+          "code": "1f387"
+        },
+        {
+          "title": "moon viewing ceremony",
+          "code": "1f391"
+        },
+        {
+          "title": "yen banknote",
+          "code": "1f4b4"
+        },
+        {
+          "title": "dollar banknote",
+          "code": "1f4b5"
+        },
+        {
+          "title": "euro banknote",
+          "code": "1f4b6"
+        },
+        {
+          "title": "pound banknote",
+          "code": "1f4b7"
+        },
+        {
+          "title": "moai",
+          "code": "1f5ff"
+        },
+        {
+          "title": "passport control",
+          "code": "1f6c2"
+        },
+        {
+          "title": "customs",
+          "code": "1f6c3"
+        },
+        {
+          "title": "baggage claim",
+          "code": "1f6c4"
+        },
+        {
+          "title": "left luggage",
+          "code": "1f6c5"
+        }
+      ]
+    },
+    {
+      "category": "Objects",
+      "fa": "fa-wrench",
+      "emojis": [
+        {
+          "title": "skull and crossbones",
+          "code": "2620"
+        },
+        {
+          "title": "person taking bath",
+          "code": "1f6c0"
+        },
+        {
+          "title": "person in bed",
+          "code": "1f6cc"
+        },
+        {
+          "title": "love letter",
+          "code": "1f48c"
+        },
+        {
+          "title": "bomb",
+          "code": "1f4a3"
+        },
+        {
+          "title": "hole",
+          "code": "1f573"
+        },
+        {
+          "title": "prayer beads",
+          "code": "1f4ff"
+        },
+        {
+          "title": "gem stone",
+          "code": "1f48e"
+        },
+        {
+          "title": "kitchen knife",
+          "code": "1f52a"
+        },
+        {
+          "title": "amphora",
+          "code": "1f3fa"
+        },
+        {
+          "title": "world map",
+          "code": "1f5fa"
+        },
+        {
+          "title": "oil drum",
+          "code": "1f6e2"
+        },
+        {
+          "title": "barber pole",
+          "code": "1f488"
+        },
+        {
+          "title": "door",
+          "code": "1f6aa"
+        },
+        {
+          "title": "toilet",
+          "code": "1f6bd"
+        },
+        {
+          "title": "shower",
+          "code": "1f6bf"
+        },
+        {
+          "title": "bathtub",
+          "code": "1f6c1"
+        },
+        {
+          "title": "hourglass done",
+          "code": "231b"
+        },
+        {
+          "title": "hourglass not done",
+          "code": "23f3"
+        },
+        {
+          "title": "watch",
+          "code": "231a"
+        },
+        {
+          "title": "alarm clock",
+          "code": "23f0"
+        },
+        {
+          "title": "bellhop bell",
+          "code": "1f6ce"
+        },
+        {
+          "title": "stopwatch",
+          "code": "23f1"
+        },
+        {
+          "title": "timer clock",
+          "code": "23f2"
+        },
+        {
+          "title": "mantelpiece clock",
+          "code": "1f570"
+        },
+        {
+          "title": "thermometer",
+          "code": "1f321"
+        },
+        {
+          "title": "balloon",
+          "code": "1f388"
+        },
+        {
+          "title": "party popper",
+          "code": "1f389"
+        },
+        {
+          "title": "confetti ball",
+          "code": "1f38a"
+        },
+        {
+          "title": "japanese dolls",
+          "code": "1f38e"
+        },
+        {
+          "title": "carp streamer",
+          "code": "1f38f"
+        },
+        {
+          "title": "wind chime",
+          "code": "1f390"
+        },
+        {
+          "title": "ribbon",
+          "code": "1f380"
+        },
+        {
+          "title": "wrapped gift",
+          "code": "1f381"
+        },
+        {
+          "title": "postal horn",
+          "code": "1f4ef"
+        },
+        {
+          "title": "radio button",
+          "code": "1f518"
+        },
+        {
+          "title": "radio",
+          "code": "1f4fb"
+        },
+        {
+          "title": "mobile phone",
+          "code": "1f4f1"
+        },
+        {
+          "title": "mobile phone with arrow",
+          "code": "1f4f2"
+        },
+        {
+          "title": "telephone",
+          "code": "260e"
+        },
+        {
+          "title": "telephone receiver",
+          "code": "1f4de"
+        },
+        {
+          "title": "pager",
+          "code": "1f4df"
+        },
+        {
+          "title": "fax machine",
+          "code": "1f4e0"
+        },
+        {
+          "title": "battery",
+          "code": "1f50b"
+        },
+        {
+          "title": "electric plug",
+          "code": "1f50c"
+        },
+        {
+          "title": "laptop computer",
+          "code": "1f4bb"
+        },
+        {
+          "title": "keyboard",
+          "code": "2328"
+        },
+        {
+          "title": "computer disk",
+          "code": "1f4bd"
+        },
+        {
+          "title": "floppy disk",
+          "code": "1f4be"
+        },
+        {
+          "title": "optical disk",
+          "code": "1f4bf"
+        },
+        {
+          "title": "dvd",
+          "code": "1f4c0"
+        },
+        {
+          "title": "movie camera",
+          "code": "1f3a5"
+        },
+        {
+          "title": "television",
+          "code": "1f4fa"
+        },
+        {
+          "title": "camera",
+          "code": "1f4f7"
+        },
+        {
+          "title": "camera with flash",
+          "code": "1f4f8"
+        },
+        {
+          "title": "video camera",
+          "code": "1f4f9"
+        },
+        {
+          "title": "videocassette",
+          "code": "1f4fc"
+        },
+        {
+          "title": "magnifying glass tilted left",
+          "code": "1f50d"
+        },
+        {
+          "title": "magnifying glass tilted right",
+          "code": "1f50e"
+        },
+        {
+          "title": "microscope",
+          "code": "1f52c"
+        },
+        {
+          "title": "telescope",
+          "code": "1f52d"
+        },
+        {
+          "title": "satellite antenna",
+          "code": "1f4e1"
+        },
+        {
+          "title": "light bulb",
+          "code": "1f4a1"
+        },
+        {
+          "title": "flashlight",
+          "code": "1f526"
+        },
+        {
+          "title": "red paper lantern",
+          "code": "1f3ee"
+        },
+        {
+          "title": "notebook with decorative cover",
+          "code": "1f4d4"
+        },
+        {
+          "title": "closed book",
+          "code": "1f4d5"
+        },
+        {
+          "title": "open book",
+          "code": "1f4d6"
+        },
+        {
+          "title": "green book",
+          "code": "1f4d7"
+        },
+        {
+          "title": "blue book",
+          "code": "1f4d8"
+        },
+        {
+          "title": "orange book",
+          "code": "1f4d9"
+        },
+        {
+          "title": "ledger",
+          "code": "1f4d2"
+        },
+        {
+          "title": "books",
+          "code": "1f4da"
+        },
+        {
+          "title": "notebook",
+          "code": "1f4d3"
+        },
+        {
+          "title": "page with curl",
+          "code": "1f4c3"
+        },
+        {
+          "title": "scroll",
+          "code": "1f4dc"
+        },
+        {
+          "title": "page facing up",
+          "code": "1f4c4"
+        },
+        {
+          "title": "newspaper",
+          "code": "1f4f0"
+        },
+        {
+          "title": "bookmark tabs",
+          "code": "1f4d1"
+        },
+        {
+          "title": "bookmark",
+          "code": "1f516"
+        },
+        {
+          "title": "money bag",
+          "code": "1f4b0"
+        },
+        {
+          "title": "money with wings",
+          "code": "1f4b8"
+        },
+        {
+          "title": "credit card",
+          "code": "1f4b3"
+        },
+        {
+          "title": "envelope",
+          "code": "2709"
+        },
+        {
+          "title": "e-mail",
+          "code": "1f4e7"
+        },
+        {
+          "title": "incoming envelope",
+          "code": "1f4e8"
+        },
+        {
+          "title": "envelope with arrow",
+          "code": "1f4e9"
+        },
+        {
+          "title": "outbox tray",
+          "code": "1f4e4"
+        },
+        {
+          "title": "inbox tray",
+          "code": "1f4e5"
+        },
+        {
+          "title": "package",
+          "code": "1f4e6"
+        },
+        {
+          "title": "closed mailbox with raised flag",
+          "code": "1f4eb"
+        },
+        {
+          "title": "closed mailbox with lowered flag",
+          "code": "1f4ea"
+        },
+        {
+          "title": "open mailbox with raised flag",
+          "code": "1f4ec"
+        },
+        {
+          "title": "open mailbox with lowered flag",
+          "code": "1f4ed"
+        },
+        {
+          "title": "postbox",
+          "code": "1f4ee"
+        },
+        {
+          "title": "pencil",
+          "code": "270f"
+        },
+        {
+          "title": "black nib",
+          "code": "2712"
+        },
+        {
+          "title": "memo",
+          "code": "1f4dd"
+        },
+        {
+          "title": "file folder",
+          "code": "1f4c1"
+        },
+        {
+          "title": "open file folder",
+          "code": "1f4c2"
+        },
+        {
+          "title": "calendar",
+          "code": "1f4c5"
+        },
+        {
+          "title": "tear-off calendar",
+          "code": "1f4c6"
+        },
+        {
+          "title": "card index",
+          "code": "1f4c7"
+        },
+        {
+          "title": "chart increasing",
+          "code": "1f4c8"
+        },
+        {
+          "title": "chart decreasing",
+          "code": "1f4c9"
+        },
+        {
+          "title": "chart increasing with yen",
+          "code": "1f4b9"
+        },
+        {
+          "title": "bar chart",
+          "code": "1f4ca"
+        },
+        {
+          "title": "currency exchange",
+          "code": "1f4b1"
+        },
+        {
+          "title": "heavy dollar sign",
+          "code": "1f4b2"
+        },
+        {
+          "title": "clipboard",
+          "code": "1f4cb"
+        },
+        {
+          "title": "pushpin",
+          "code": "1f4cc"
+        },
+        {
+          "title": "round pushpin",
+          "code": "1f4cd"
+        },
+        {
+          "title": "paperclip",
+          "code": "1f4ce"
+        },
+        {
+          "title": "straight ruler",
+          "code": "1f4cf"
+        },
+        {
+          "title": "triangular ruler",
+          "code": "1f4d0"
+        },
+        {
+          "title": "scissors",
+          "code": "2702"
+        },
+        {
+          "title": "locked",
+          "code": "1f512"
+        },
+        {
+          "title": "unlocked",
+          "code": "1f513"
+        },
+        {
+          "title": "locked with pen",
+          "code": "1f50f"
+        },
+        {
+          "title": "locked with key",
+          "code": "1f510"
+        },
+        {
+          "title": "key",
+          "code": "1f511"
+        },
+        {
+          "title": "hammer",
+          "code": "1f528"
+        },
+        {
+          "title": "crossed swords",
+          "code": "2694"
+        },
+        {
+          "title": "pistol",
+          "code": "1f52b"
+        },
+        {
+          "title": "wrench",
+          "code": "1f527"
+        },
+        {
+          "title": "nut and bolt",
+          "code": "1f529"
+        },
+        {
+          "title": "balance scale",
+          "code": "2696"
+        },
+        {
+          "title": "alembic",
+          "code": "2697"
+        },
+        {
+          "title": "gear",
+          "code": "2699"
+        },
+        {
+          "title": "link",
+          "code": "1f517"
+        },
+        {
+          "title": "syringe",
+          "code": "1f489"
+        },
+        {
+          "title": "pill",
+          "code": "1f48a"
+        },
+        {
+          "title": "cigarette",
+          "code": "1f6ac"
+        },
+        {
+          "title": "coffin",
+          "code": "26b0"
+        },
+        {
+          "title": "funeral urn",
+          "code": "26b1"
+        },
+        {
+          "title": "crystal ball",
+          "code": "1f52e"
+        },
+        {
+          "title": "potable water",
+          "code": "1f6b0"
+        },
+        {
+          "title": "chequered flag",
+          "code": "1f3c1"
+        },
+        {
+          "title": "triangular flag",
+          "code": "1f6a9"
+        },
+        {
+          "title": "crossed flags",
+          "code": "1f38c"
+        },
+        {
+          "title": "black flag",
+          "code": "1f3f4"
+        },
+        {
+          "title": "rainbow flag",
+          "code": "1f3f3_200d_1f308"
+        },
+        {
+          "title": "umbrella on ground",
+          "code": "26f1"
+        },
+        {
+          "title": "snowflake",
+          "code": "2744"
+        },
+        {
+          "title": "firecracker",
+          "code": "1f9e8"
+        },
+        {
+          "title": "red envelope",
+          "code": "1f9e7"
+        },
+        {
+          "title": "reminder ribbon",
+          "code": "1f397"
+        },
+        {
+          "title": "admission tickets",
+          "code": "1f39f"
+        },
+        {
+          "title": "military medal",
+          "code": "1f396"
+        },
+        {
+          "title": "softball",
+          "code": "1f94e"
+        },
+        {
+          "title": "flying disc",
+          "code": "1f94f"
+        },
+        {
+          "title": "lacrosse",
+          "code": "1f94d"
+        },
+        {
+          "title": "ice skate",
+          "code": "26f8"
+        },
+        {
+          "title": "nazar amulet",
+          "code": "1f9ff"
+        },
+        {
+          "title": "joystick",
+          "code": "1f579"
+        },
+        {
+          "title": "jigsaw",
+          "code": "1f9e9"
+        },
+        {
+          "title": "teddy bear",
+          "code": "1f9f8"
+        },
+        {
+          "title": "spade suit",
+          "code": "2660"
+        },
+        {
+          "title": "heart suit",
+          "code": "2665"
+        },
+        {
+          "title": "diamond suit",
+          "code": "2666"
+        },
+        {
+          "title": "club suit",
+          "code": "2663"
+        },
+        {
+          "title": "chess pawn",
+          "code": "265f"
+        },
+        {
+          "title": "framed picture",
+          "code": "1f5bc"
+        },
+        {
+          "title": "thread",
+          "code": "1f9f5"
+        },
+        {
+          "title": "yarn",
+          "code": "1f9f6"
+        },
+        {
+          "title": "studio microphone",
+          "code": "1f399"
+        },
+        {
+          "title": "level slider",
+          "code": "1f39a"
+        },
+        {
+          "title": "control knobs",
+          "code": "1f39b"
+        },
+        {
+          "title": "desktop computer",
+          "code": "1f5a5"
+        },
+        {
+          "title": "printer",
+          "code": "1f5a8"
+        },
+        {
+          "title": "computer mouse",
+          "code": "1f5b1"
+        },
+        {
+          "title": "trackball",
+          "code": "1f5b2"
+        },
+        {
+          "title": "abacus",
+          "code": "1f9ee"
+        },
+        {
+          "title": "film frames",
+          "code": "1f39e"
+        },
+        {
+          "title": "film projector",
+          "code": "1f4fd"
+        },
+        {
+          "title": "candle",
+          "code": "1f56f"
+        },
+        {
+          "title": "rolled-up newspaper",
+          "code": "1f5de"
+        },
+        {
+          "title": "label",
+          "code": "1f3f7"
+        },
+        {
+          "title": "receipt",
+          "code": "1f9fe"
+        },
+        {
+          "title": "ballot box with ballot",
+          "code": "1f5f3"
+        },
+        {
+          "title": "fountain pen",
+          "code": "1f58b"
+        },
+        {
+          "title": "pen",
+          "code": "1f58a"
+        },
+        {
+          "title": "paintbrush",
+          "code": "1f58c"
+        },
+        {
+          "title": "crayon",
+          "code": "1f58d"
+        },
+        {
+          "title": "card index dividers",
+          "code": "1f5c2"
+        },
+        {
+          "title": "spiral notepad",
+          "code": "1f5d2"
+        },
+        {
+          "title": "spiral calendar",
+          "code": "1f5d3"
+        },
+        {
+          "title": "linked paperclips",
+          "code": "1f587"
+        },
+        {
+          "title": "card file box",
+          "code": "1f5c3"
+        },
+        {
+          "title": "file cabinet",
+          "code": "1f5c4"
+        },
+        {
+          "title": "wastebasket",
+          "code": "1f5d1"
+        },
+        {
+          "title": "old key",
+          "code": "1f5dd"
+        },
+        {
+          "title": "pick",
+          "code": "26cf"
+        },
+        {
+          "title": "hammer and pick",
+          "code": "2692"
+        },
+        {
+          "title": "hammer and wrench",
+          "code": "1f6e0"
+        },
+        {
+          "title": "dagger",
+          "code": "1f5e1"
+        },
+        {
+          "title": "shield",
+          "code": "1f6e1"
+        },
+        {
+          "title": "clamp",
+          "code": "1f5dc"
+        },
+        {
+          "title": "chains",
+          "code": "26d3"
+        },
+        {
+          "title": "toolbox",
+          "code": "1f9f0"
+        },
+        {
+          "title": "magnet",
+          "code": "1f9f2"
+        },
+        {
+          "title": "test tube",
+          "code": "1f9ea"
+        },
+        {
+          "title": "petri dish",
+          "code": "1f9eb"
+        },
+        {
+          "title": "dna",
+          "code": "1f9ec"
+        },
+        {
+          "title": "bed",
+          "code": "1f6cf"
+        },
+        {
+          "title": "couch and lamp",
+          "code": "1f6cb"
+        },
+        {
+          "title": "lotion bottle",
+          "code": "1f9f4"
+        },
+        {
+          "title": "safety pin",
+          "code": "1f9f7"
+        },
+        {
+          "title": "broom",
+          "code": "1f9f9"
+        },
+        {
+          "title": "basket",
+          "code": "1f9fa"
+        },
+        {
+          "title": "roll of paper",
+          "code": "1f9fb"
+        },
+        {
+          "title": "soap",
+          "code": "1f9fc"
+        },
+        {
+          "title": "sponge",
+          "code": "1f9fd"
+        },
+        {
+          "title": "fire extinguisher",
+          "code": "1f9ef"
+        }
+      ]
+    },
+    {
+      "category": "Symbols",
+      "fa": "fa-heart",
+      "emojis": [
+        {
+          "title": "eye in speech bubble",
+          "code": "1f441_200d_1f5e8"
+        },
+        {
+          "title": "heart with arrow",
+          "code": "1f498"
+        },
+        {
+          "title": "red heart",
+          "code": "2764"
+        },
+        {
+          "title": "orange heart",
+          "code": "1f9e1"
+        },
+        {
+          "title": "heavy heart exclamation",
+          "code": "2763"
+        },
+        {
+          "title": "beating heart",
+          "code": "1f493"
+        },
+        {
+          "title": "broken heart",
+          "code": "1f494"
+        },
+        {
+          "title": "two hearts",
+          "code": "1f495"
+        },
+        {
+          "title": "sparkling heart",
+          "code": "1f496"
+        },
+        {
+          "title": "growing heart",
+          "code": "1f497"
+        },
+        {
+          "title": "blue heart",
+          "code": "1f499"
+        },
+        {
+          "title": "green heart",
+          "code": "1f49a"
+        },
+        {
+          "title": "yellow heart",
+          "code": "1f49b"
+        },
+        {
+          "title": "purple heart",
+          "code": "1f49c"
+        },
+        {
+          "title": "black heart",
+          "code": "1f5a4"
+        },
+        {
+          "title": "heart with ribbon",
+          "code": "1f49d"
+        },
+        {
+          "title": "revolving hearts",
+          "code": "1f49e"
+        },
+        {
+          "title": "heart decoration",
+          "code": "1f49f"
+        },
+        {
+          "title": "zzz",
+          "code": "1f4a4"
+        },
+        {
+          "title": "anger symbol",
+          "code": "1f4a2"
+        },
+        {
+          "title": "left speech bubble",
+          "code": "1f5e8"
+        },
+        {
+          "title": "speech balloon",
+          "code": "1f4ac"
+        },
+        {
+          "title": "right anger bubble",
+          "code": "1f5ef"
+        },
+        {
+          "title": "thought balloon",
+          "code": "1f4ad"
+        },
+        {
+          "title": "hot springs",
+          "code": "2668"
+        },
+        {
+          "title": "stop sign",
+          "code": "1f6d1"
+        },
+        {
+          "title": "twelve o’clock",
+          "code": "1f55b"
+        },
+        {
+          "title": "twelve-thirty",
+          "code": "1f567"
+        },
+        {
+          "title": "one o’clock",
+          "code": "1f550"
+        },
+        {
+          "title": "one-thirty",
+          "code": "1f55c"
+        },
+        {
+          "title": "two o’clock",
+          "code": "1f551"
+        },
+        {
+          "title": "two-thirty",
+          "code": "1f55d"
+        },
+        {
+          "title": "three o’clock",
+          "code": "1f552"
+        },
+        {
+          "title": "three-thirty",
+          "code": "1f55e"
+        },
+        {
+          "title": "four o’clock",
+          "code": "1f553"
+        },
+        {
+          "title": "four-thirty",
+          "code": "1f55f"
+        },
+        {
+          "title": "five o’clock",
+          "code": "1f554"
+        },
+        {
+          "title": "five-thirty",
+          "code": "1f560"
+        },
+        {
+          "title": "six o’clock",
+          "code": "1f555"
+        },
+        {
+          "title": "six-thirty",
+          "code": "1f561"
+        },
+        {
+          "title": "seven o’clock",
+          "code": "1f556"
+        },
+        {
+          "title": "seven-thirty",
+          "code": "1f562"
+        },
+        {
+          "title": "eight o’clock",
+          "code": "1f557"
+        },
+        {
+          "title": "eight-thirty",
+          "code": "1f563"
+        },
+        {
+          "title": "nine o’clock",
+          "code": "1f558"
+        },
+        {
+          "title": "nine-thirty",
+          "code": "1f564"
+        },
+        {
+          "title": "ten o’clock",
+          "code": "1f559"
+        },
+        {
+          "title": "ten-thirty",
+          "code": "1f565"
+        },
+        {
+          "title": "eleven o’clock",
+          "code": "1f55a"
+        },
+        {
+          "title": "eleven-thirty",
+          "code": "1f566"
+        },
+        {
+          "title": "cyclone",
+          "code": "1f300"
+        },
+        {
+          "title": "joker",
+          "code": "1f0cf"
+        },
+        {
+          "title": "mahjong red dragon",
+          "code": "1f004"
+        },
+        {
+          "title": "flower playing cards",
+          "code": "1f3b4"
+        },
+        {
+          "title": "muted speaker",
+          "code": "1f507"
+        },
+        {
+          "title": "speaker low volume",
+          "code": "1f508"
+        },
+        {
+          "title": "speaker medium volume",
+          "code": "1f509"
+        },
+        {
+          "title": "speaker high volume",
+          "code": "1f50a"
+        },
+        {
+          "title": "loudspeaker",
+          "code": "1f4e2"
+        },
+        {
+          "title": "megaphone",
+          "code": "1f4e3"
+        },
+        {
+          "title": "bell",
+          "code": "1f514"
+        },
+        {
+          "title": "bell with slash",
+          "code": "1f515"
+        },
+        {
+          "title": "musical note",
+          "code": "1f3b5"
+        },
+        {
+          "title": "musical notes",
+          "code": "1f3b6"
+        },
+        {
+          "title": "atm sign",
+          "code": "1f3e7"
+        },
+        {
+          "title": "litter in bin sign",
+          "code": "1f6ae"
+        },
+        {
+          "title": "wheelchair symbol",
+          "code": "267f"
+        },
+        {
+          "title": "men’s room",
+          "code": "1f6b9"
+        },
+        {
+          "title": "women’s room",
+          "code": "1f6ba"
+        },
+        {
+          "title": "restroom",
+          "code": "1f6bb"
+        },
+        {
+          "title": "baby symbol",
+          "code": "1f6bc"
+        },
+        {
+          "title": "water closet",
+          "code": "1f6be"
+        },
+        {
+          "title": "children crossing",
+          "code": "1f6b8"
+        },
+        {
+          "title": "no entry",
+          "code": "26d4"
+        },
+        {
+          "title": "prohibited",
+          "code": "1f6ab"
+        },
+        {
+          "title": "no bicycles",
+          "code": "1f6b3"
+        },
+        {
+          "title": "no smoking",
+          "code": "1f6ad"
+        },
+        {
+          "title": "no littering",
+          "code": "1f6af"
+        },
+        {
+          "title": "non-potable water",
+          "code": "1f6b1"
+        },
+        {
+          "title": "no pedestrians",
+          "code": "1f6b7"
+        },
+        {
+          "title": "no one under eighteen",
+          "code": "1f51e"
+        },
+        {
+          "title": "left-right arrow",
+          "code": "2194"
+        },
+        {
+          "title": "up-down arrow",
+          "code": "2195"
+        },
+        {
+          "title": "clockwise vertical arrows",
+          "code": "1f503"
+        },
+        {
+          "title": "counterclockwise arrows button",
+          "code": "1f504"
+        },
+        {
+          "title": "right arrow",
+          "code": "27a1"
+        },
+        {
+          "title": "right arrow curving up",
+          "code": "2934"
+        },
+        {
+          "title": "right arrow curving down",
+          "code": "2935"
+        },
+        {
+          "title": "left arrow",
+          "code": "2b05"
+        },
+        {
+          "title": "up arrow",
+          "code": "2b06"
+        },
+        {
+          "title": "down arrow",
+          "code": "2b07"
+        },
+        {
+          "title": "up-left arrow",
+          "code": "2196"
+        },
+        {
+          "title": "up-right arrow",
+          "code": "2197"
+        },
+        {
+          "title": "down-right arrow",
+          "code": "2198"
+        },
+        {
+          "title": "down-left arrow",
+          "code": "2199"
+        },
+        {
+          "title": "right arrow curving left",
+          "code": "21a9"
+        },
+        {
+          "title": "left arrow curving right",
+          "code": "21aa"
+        },
+        {
+          "title": "back arrow",
+          "code": "1f519"
+        },
+        {
+          "title": "end arrow",
+          "code": "1f51a"
+        },
+        {
+          "title": "on! arrow",
+          "code": "1f51b"
+        },
+        {
+          "title": "soon arrow",
+          "code": "1f51c"
+        },
+        {
+          "title": "top arrow",
+          "code": "1f51d"
+        },
+        {
+          "title": "latin cross",
+          "code": "271d"
+        },
+        {
+          "title": "star of david",
+          "code": "2721"
+        },
+        {
+          "title": "place of worship",
+          "code": "1f6d0"
+        },
+        {
+          "title": "atom symbol",
+          "code": "269b"
+        },
+        {
+          "title": "radioactive",
+          "code": "2622"
+        },
+        {
+          "title": "biohazard",
+          "code": "2623"
+        },
+        {
+          "title": "orthodox cross",
+          "code": "2626"
+        },
+        {
+          "title": "star and crescent",
+          "code": "262a"
+        },
+        {
+          "title": "peace symbol",
+          "code": "262e"
+        },
+        {
+          "title": "yin yang",
+          "code": "262f"
+        },
+        {
+          "title": "wheel of dharma",
+          "code": "2638"
+        },
+        {
+          "title": "menorah",
+          "code": "1f54e"
+        },
+        {
+          "title": "dotted six-pointed star",
+          "code": "1f52f"
+        },
+        {
+          "title": "aries",
+          "code": "2648"
+        },
+        {
+          "title": "taurus",
+          "code": "2649"
+        },
+        {
+          "title": "gemini",
+          "code": "264a"
+        },
+        {
+          "title": "cancer",
+          "code": "264b"
+        },
+        {
+          "title": "leo",
+          "code": "264c"
+        },
+        {
+          "title": "virgo",
+          "code": "264d"
+        },
+        {
+          "title": "libra",
+          "code": "264e"
+        },
+        {
+          "title": "scorpio",
+          "code": "264f"
+        },
+        {
+          "title": "sagittarius",
+          "code": "2650"
+        },
+        {
+          "title": "capricorn",
+          "code": "2651"
+        },
+        {
+          "title": "aquarius",
+          "code": "2652"
+        },
+        {
+          "title": "pisces",
+          "code": "2653"
+        },
+        {
+          "title": "ophiuchus",
+          "code": "26ce"
+        },
+        {
+          "title": "pause button",
+          "code": "23f8"
+        },
+        {
+          "title": "record button",
+          "code": "23fa"
+        },
+        {
+          "title": "shuffle tracks button",
+          "code": "1f500"
+        },
+        {
+          "title": "repeat button",
+          "code": "1f501"
+        },
+        {
+          "title": "repeat single button",
+          "code": "1f502"
+        },
+        {
+          "title": "fast-forward button",
+          "code": "23e9"
+        },
+        {
+          "title": "fast reverse button",
+          "code": "23ea"
+        },
+        {
+          "title": "upwards button",
+          "code": "1f53c"
+        },
+        {
+          "title": "fast up button",
+          "code": "23eb"
+        },
+        {
+          "title": "downwards button",
+          "code": "1f53d"
+        },
+        {
+          "title": "fast down button",
+          "code": "23ec"
+        },
+        {
+          "title": "play button",
+          "code": "25b6"
+        },
+        {
+          "title": "reverse button",
+          "code": "25c0"
+        },
+        {
+          "title": "cinema",
+          "code": "1f3a6"
+        },
+        {
+          "title": "eject button",
+          "code": "23cf"
+        },
+        {
+          "title": "next track button",
+          "code": "23ed"
+        },
+        {
+          "title": "last track button",
+          "code": "23ee"
+        },
+        {
+          "title": "play or pause button",
+          "code": "23ef"
+        },
+        {
+          "title": "dim button",
+          "code": "1f505"
+        },
+        {
+          "title": "bright button",
+          "code": "1f506"
+        },
+        {
+          "title": "antenna bars",
+          "code": "1f4f6"
+        },
+        {
+          "title": "vibration mode",
+          "code": "1f4f3"
+        },
+        {
+          "title": "mobile phone off",
+          "code": "1f4f4"
+        },
+        {
+          "title": "no mobile phones",
+          "code": "1f4f5"
+        },
+        {
+          "title": "recycling symbol",
+          "code": "267b"
+        },
+        {
+          "title": "trident emblem",
+          "code": "1f531"
+        },
+        {
+          "title": "name badge",
+          "code": "1f4db"
+        },
+        {
+          "title": "japanese symbol for beginner",
+          "code": "1f530"
+        },
+        {
+          "title": "heavy large circle",
+          "code": "2b55"
+        },
+        {
+          "title": "white heavy check mark",
+          "code": "2705"
+        },
+        {
+          "title": "heavy check mark",
+          "code": "2714"
+        },
+        {
+          "title": "ballot box with check",
+          "code": "2611"
+        },
+        {
+          "title": "cross mark",
+          "code": "274c"
+        },
+        {
+          "title": "cross mark button",
+          "code": "274e"
+        },
+        {
+          "title": "heavy multiplication x",
+          "code": "2716"
+        },
+        {
+          "title": "heavy plus sign",
+          "code": "2795"
+        },
+        {
+          "title": "heavy minus sign",
+          "code": "2796"
+        },
+        {
+          "title": "heavy division sign",
+          "code": "2797"
+        },
+        {
+          "title": "curly loop",
+          "code": "27b0"
+        },
+        {
+          "title": "double curly loop",
+          "code": "27bf"
+        },
+        {
+          "title": "eight-spoked asterisk",
+          "code": "2733"
+        },
+        {
+          "title": "eight-pointed star",
+          "code": "2734"
+        },
+        {
+          "title": "question mark",
+          "code": "2753"
+        },
+        {
+          "title": "white question mark",
+          "code": "2754"
+        },
+        {
+          "title": "white exclamation mark",
+          "code": "2755"
+        },
+        {
+          "title": "exclamation mark",
+          "code": "2757"
+        },
+        {
+          "title": "exclamation question mark",
+          "code": "2049"
+        },
+        {
+          "title": "letter a",
+          "code": "1f1e6"
+        },
+        {
+          "title": "letter b",
+          "code": "1f1e7"
+        },
+        {
+          "title": "letter c",
+          "code": "1f1e8"
+        },
+        {
+          "title": "letter d",
+          "code": "1f1e9"
+        },
+        {
+          "title": "letter e",
+          "code": "1f1ea"
+        },
+        {
+          "title": "letter f",
+          "code": "1f1eb"
+        },
+        {
+          "title": "letter g",
+          "code": "1f1ec"
+        },
+        {
+          "title": "letter h",
+          "code": "1f1ed"
+        },
+        {
+          "title": "letter i",
+          "code": "1f1ee"
+        },
+        {
+          "title": "letter j",
+          "code": "1f1ef"
+        },
+        {
+          "title": "letter k",
+          "code": "1f1f0"
+        },
+        {
+          "title": "letter l",
+          "code": "1f1f1"
+        },
+        {
+          "title": "letter m",
+          "code": "1f1f2"
+        },
+        {
+          "title": "letter n",
+          "code": "1f1f3"
+        },
+        {
+          "title": "letter o",
+          "code": "1f1f4"
+        },
+        {
+          "title": "letter p",
+          "code": "1f1f5"
+        },
+        {
+          "title": "letter q",
+          "code": "1f1f6"
+        },
+        {
+          "title": "letter r",
+          "code": "1f1f7"
+        },
+        {
+          "title": "letter s",
+          "code": "1f1f8"
+        },
+        {
+          "title": "letter t",
+          "code": "1f1f9"
+        },
+        {
+          "title": "letter u",
+          "code": "1f1fa"
+        },
+        {
+          "title": "letter v",
+          "code": "1f1fb"
+        },
+        {
+          "title": "letter w",
+          "code": "1f1fc"
+        },
+        {
+          "title": "letter x",
+          "code": "1f1fd"
+        },
+        {
+          "title": "letter y",
+          "code": "1f1fe"
+        },
+        {
+          "title": "letter z",
+          "code": "1f1ff"
+        },
+        {
+          "title": "keycap: 10",
+          "code": "1f51f"
+        },
+        {
+          "title": "hundred points",
+          "code": "1f4af"
+        },
+        {
+          "title": "input latin uppercase",
+          "code": "1f520"
+        },
+        {
+          "title": "input latin lowercase",
+          "code": "1f521"
+        },
+        {
+          "title": "input numbers",
+          "code": "1f522"
+        },
+        {
+          "title": "input symbols",
+          "code": "1f523"
+        },
+        {
+          "title": "input latin letters",
+          "code": "1f524"
+        },
+        {
+          "title": "ab button (blood type)",
+          "code": "1f18e"
+        },
+        {
+          "title": "cl button",
+          "code": "1f191"
+        },
+        {
+          "title": "cool button",
+          "code": "1f192"
+        },
+        {
+          "title": "free button",
+          "code": "1f193"
+        },
+        {
+          "title": "information",
+          "code": "2139"
+        },
+        {
+          "title": "id button",
+          "code": "1f194"
+        },
+        {
+          "title": "circled m",
+          "code": "24c2"
+        },
+        {
+          "title": "new button",
+          "code": "1f195"
+        },
+        {
+          "title": "ng button",
+          "code": "1f196"
+        },
+        {
+          "title": "ok button",
+          "code": "1f197"
+        },
+        {
+          "title": "sos button",
+          "code": "1f198"
+        },
+        {
+          "title": "up! button",
+          "code": "1f199"
+        },
+        {
+          "title": "vs button",
+          "code": "1f19a"
+        },
+        {
+          "title": "japanese “here” button",
+          "code": "1f201"
+        },
+        {
+          "title": "japanese “not free of charge” button",
+          "code": "1f236"
+        },
+        {
+          "title": "japanese “reserved” button",
+          "code": "1f22f"
+        },
+        {
+          "title": "japanese “bargain” button",
+          "code": "1f250"
+        },
+        {
+          "title": "japanese “discount” button",
+          "code": "1f239"
+        },
+        {
+          "title": "japanese “free of charge” button",
+          "code": "1f21a"
+        },
+        {
+          "title": "japanese “prohibited” button",
+          "code": "1f232"
+        },
+        {
+          "title": "japanese “acceptable” button",
+          "code": "1f251"
+        },
+        {
+          "title": "japanese “application” button",
+          "code": "1f238"
+        },
+        {
+          "title": "japanese “passing grade” button",
+          "code": "1f234"
+        },
+        {
+          "title": "japanese “vacancy” button",
+          "code": "1f233"
+        },
+        {
+          "title": "japanese “open for business” button",
+          "code": "1f23a"
+        },
+        {
+          "title": "japanese “no vacancy” button",
+          "code": "1f235"
+        },
+        {
+          "title": "japanese “congratulations” button",
+          "code": "3297"
+        },
+        {
+          "title": "japanese “secret” button",
+          "code": "3299"
+        },
+        {
+          "title": "a button (blood type)",
+          "code": "1f170"
+        },
+        {
+          "title": "b button (blood type)",
+          "code": "1f171"
+        },
+        {
+          "title": "o button (blood type)",
+          "code": "1f17e"
+        },
+        {
+          "title": "p button",
+          "code": "1f17f"
+        },
+        {
+          "title": "japanese “service charge” button",
+          "code": "1f202"
+        },
+        {
+          "title": "japanese “monthly amount” button",
+          "code": "1f237"
+        },
+        {
+          "title": "black small square",
+          "code": "25aa"
+        },
+        {
+          "title": "white small square",
+          "code": "25ab"
+        },
+        {
+          "title": "white medium-small square",
+          "code": "25fd"
+        },
+        {
+          "title": "black medium-small square",
+          "code": "25fe"
+        },
+        {
+          "title": "white medium square",
+          "code": "25fb"
+        },
+        {
+          "title": "black medium square",
+          "code": "25fc"
+        },
+        {
+          "title": "black large square",
+          "code": "2b1b"
+        },
+        {
+          "title": "white large square",
+          "code": "2b1c"
+        },
+        {
+          "title": "large orange diamond",
+          "code": "1f536"
+        },
+        {
+          "title": "large blue diamond",
+          "code": "1f537"
+        },
+        {
+          "title": "small orange diamond",
+          "code": "1f538"
+        },
+        {
+          "title": "small blue diamond",
+          "code": "1f539"
+        },
+        {
+          "title": "red triangle pointed up",
+          "code": "1f53a"
+        },
+        {
+          "title": "red triangle pointed down",
+          "code": "1f53b"
+        },
+        {
+          "title": "diamond with a dot",
+          "code": "1f4a0"
+        },
+        {
+          "title": "black square button",
+          "code": "1f532"
+        },
+        {
+          "title": "white square button",
+          "code": "1f533"
+        },
+        {
+          "title": "white circle",
+          "code": "26aa"
+        },
+        {
+          "title": "black circle",
+          "code": "26ab"
+        },
+        {
+          "title": "red circle",
+          "code": "1f534"
+        },
+        {
+          "title": "blue circle",
+          "code": "1f535"
+        },
+        {
+          "title": "medical symbol",
+          "code": "2695"
+        },
+        {
+          "title": "fleur-de-lis",
+          "code": "269c"
+        },
+        {
+          "title": "warning",
+          "code": "26a0"
+        },
+        {
+          "title": "om",
+          "code": "1f549"
+        },
+        {
+          "title": "stop button",
+          "code": "23f9"
+        },
+        {
+          "title": "female sign",
+          "code": "2640"
+        },
+        {
+          "title": "male sign",
+          "code": "2642"
+        },
+        {
+          "title": "infinity",
+          "code": "267e"
+        },
+        {
+          "title": "part alternation mark",
+          "code": "303d"
+        },
+        {
+          "title": "sparkle",
+          "code": "2747"
+        },
+        {
+          "title": "double exclamation mark",
+          "code": "203c"
+        },
+        {
+          "title": "wavy dash",
+          "code": "3030"
+        },
+        {
+          "title": "copyright",
+          "code": "00a9"
+        },
+        {
+          "title": "registered",
+          "code": "00ae"
+        },
+        {
+          "title": "trade mark",
+          "code": "2122"
+        },
+        {
+          "title": "white flag",
+          "code": "1f3f3"
+        },
+        {
+          "title": "pirate flag",
+          "code": "1f3f4_200d_2620"
+        }
+      ]
+    }
+  ]
+  
